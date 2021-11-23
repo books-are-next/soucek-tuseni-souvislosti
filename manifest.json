@@ -1,0 +1,799 @@
+{
+  "author": "Ludvík Souček",
+  "identifier": "soucek-tuseni-souvislosti-2d2e83f",
+  "languagecode": "cs",
+  "modified": "2021-11-23T14:19:55.537Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Tušení souvislosti",
+  "revision": "2d2e83f",
+  "generatedAt": {
+    "date": "Tue Nov 23 2021 15:00:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1637679624619
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 142,
+      "chars": 942,
+      "ideas": 20,
+      "role": "colophon",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 8,
+      "chars": 55,
+      "ideas": 3,
+      "role": "cover",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Tušení souvislosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_003.html",
+      "words": 4,
+      "chars": 31,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_005.html",
+      "words": 322,
+      "chars": 2085,
+      "ideas": 8,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "POSUNOVÁNÍ HRANIC",
+      "file": "tuseni_souvislosti_006.html",
+      "words": 119,
+      "chars": 761,
+      "ideas": 11,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POSUNOVÁNÍ HRANIC",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_007.html",
+      "words": 30296,
+      "chars": 206889,
+      "ideas": 381,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY ",
+      "file": "tuseni_souvislosti_008.html",
+      "words": 116,
+      "chars": 733,
+      "ideas": 6,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_009.html",
+      "words": 7,
+      "chars": 39,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_010.html",
+      "words": 2485,
+      "chars": 17266,
+      "ideas": 28,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_011.html",
+      "words": 171,
+      "chars": 1203,
+      "ideas": 3,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MAMUTI MAJÍ STÁLE CO ŘÍCI",
+      "file": "tuseni_souvislosti_012.html",
+      "words": 146,
+      "chars": 824,
+      "ideas": 13,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MAMUTI MAJÍ STÁLE CO ŘÍCI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_013.html",
+      "words": 27,
+      "chars": 131,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_014.html",
+      "words": 15260,
+      "chars": 102826,
+      "ideas": 200,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_015.html",
+      "words": 115,
+      "chars": 803,
+      "ideas": 1,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HROZBA MAGNETICKÉHO POLE ",
+      "file": "tuseni_souvislosti_016.html",
+      "words": 416,
+      "chars": 2736,
+      "ideas": 8,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HROZBA MAGNETICKÉHO POLE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_017.html",
+      "words": 13611,
+      "chars": 94106,
+      "ideas": 171,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_018.html",
+      "words": 14,
+      "chars": 73,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_019.html",
+      "words": 13,
+      "chars": 72,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_020.html",
+      "words": 19,
+      "chars": 131,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_021.html",
+      "words": 13,
+      "chars": 71,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_022.html",
+      "words": 10,
+      "chars": 51,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_023.html",
+      "words": 9,
+      "chars": 59,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_024.html",
+      "words": 14,
+      "chars": 93,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_025.html",
+      "words": 27,
+      "chars": 167,
+      "ideas": 3,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_026.html",
+      "words": 27,
+      "chars": 167,
+      "ideas": 3,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_027.html",
+      "words": 9,
+      "chars": 51,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_028.html",
+      "words": 9,
+      "chars": 53,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_029.html",
+      "words": 35,
+      "chars": 244,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_030.html",
+      "words": 16,
+      "chars": 81,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_031.html",
+      "words": 31,
+      "chars": 195,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_032.html",
+      "words": 4,
+      "chars": 17,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_033.html",
+      "words": 4,
+      "chars": 18,
+      "ideas": 2,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_034.html",
+      "words": 275,
+      "chars": 1945,
+      "ideas": 5,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ ",
+      "file": "tuseni_souvislosti_035.html",
+      "words": 44,
+      "chars": 288,
+      "ideas": 5,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_036.html",
+      "words": 10343,
+      "chars": 70024,
+      "ideas": 204,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_037.html",
+      "words": 422,
+      "chars": 2650,
+      "ideas": 3,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM ",
+      "file": "tuseni_souvislosti_038.html",
+      "words": 181,
+      "chars": 1079,
+      "ideas": 12,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "tuseni_souvislosti_039.html",
+      "words": 13979,
+      "chars": 96940,
+      "ideas": 226,
+      "role": "other",
+      "order": null,
+      "next": "tuseni_souvislosti_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 88743,
+      "chars": 605899,
+      "ideas": 1348
+    },
+    "chapters": {
+      "words": 0,
+      "chars": 0,
+      "ideas": 0
+    }
+  }
+}
