@@ -4,17 +4,21 @@ title: ''
 
 Pro lovce nespočetných a málokdy zcela průkazných indicií z dávné minulosti lidstva je vysloveně odstrašujícím případem a varováním tunguzská katastrofa, čtenářům jistě dobře známá. Pro upamatování: dne 30. června 1908 v 07 hodin 17 minut místního času prolétlo nad Sibiří žhavé těleso, popisované některými svědky jako „trubka“ nebo „kláda“, dopadlo o jedenáct vteřin později do oblasti severně od faktorie Vanovary v povodí Kamenné Tunguzky (60° 55’ s. š., 101° 57’ v. d.) způsobilo značné zpustošení širého okolí. Zájemci naleznou podrobnosti v odborném nebo populárně vědeckém tisku.
 
+  
+
 Jde tedy o událost například proti hypotetické zkáze Atlantidy planetkou A velmi nedávnou, necelých sedmdesát let starou, jejímuž vysvětlení se věnovalo množství kvalifikovaných odborníků ve svých pracovnách i na místě samém. Byli vyzbrojeni potřebnými vědomostmi a záhy i moderními přístroji, znali cenu dostatečné míry sebekritiky. Oblast výbuchu byla sice trochu pozdě (první Kulikova výprava se na místo v pravém slova smyslu prosekala teprve roku 1927), ale přece jen dokonale prozkoumána.
 
-Data a poznatky, nasbírané za padesát let, umožnily třem sovětským matematikům, Korobelnikovovi, Čiškonovi a Šuršalovovi (Acta Cosmonautica 3, 615, 1976), odvodit roku 1976 model pádu. Na ploše 2150 km2 bylo balistickými vlnami zničeno 60 tisíc stromů. Obrys zničené tajgy není kruhový, ale má tvar rozepjatého motýla, širokého 75 km a dlouhého 50 km. K výbuchu došlo ve výšce 6,5 km nad tajgou a dráha tělesa svírala s povrchem Země úhel 40° (při dopadu). Celková energie výbuchu a balistických vln byla asi 9,5 Mtun, což je ekvivalent velkorážové termonukleární nálože.
+Data a poznatky, nasbírané za padesát let, umožnily třem sovětským matematikům, Korobelnikovovi, Čiškonovi a Šuršalovovi (_Acta Cosmonautica_ 3, 615, 1976), odvodit roku 1976 model pádu. Na ploše 2150 km2 bylo balistickými vlnami zničeno 60 tisíc stromů. Obrys zničené tajgy není kruhový, ale má tvar rozepjatého motýla, širokého 75 km a dlouhého 50 km. K výbuchu došlo ve výšce 6,5 km nad tajgou a dráha tělesa svírala s povrchem Země úhel 40° (při dopadu). Celková energie výbuchu a balistických vln byla asi 9,5 Mtun, což je ekvivalent velkorážové termonukleární nálože.
 
 Měli bychom tedy zdánlivé právo očekávat jisté sjednocení duchů na nejpřijatelnější domněnce nebo alespoň na skupině domněnek, na výchozí pracovní hypotéze, prokázané experimenty, průzkumem, vyhodnocením zpráv svědků (jichž bylo více než dost), seizmografických záznamů atd. atd.
 
 To je teorie – podle Goetha šedivá, zatímco žití strom se prý zelená. Opak ovšem bývá pravdou. Každá teorie je nádherným a slibným drahokamem, skrývajícím kazy a rozpory praxe. Slibuje modré z nebe, okouzluje perspektivami – v tomto případě jednotným názorem odborníků na výjimečný přírodní úkaz. Žití strom poskytuje střízlivější obraz.
 
-Redakce známého sovětského časopisu Priroda se nedávno rozhodla sestavit přehled hypotéz, který zkráceně a po úpravě cituji.
+Redakce známého sovětského časopisu _Priroda_ se nedávno rozhodla sestavit přehled hypotéz, který zkráceně a po úpravě cituji.
 
 První skupinu tvoří hypotézy, předpokládající působení inteligentních bytostí:
+
+  
 
 1\. Atomový výbuch marťanského kosmoletu (1946)
 
@@ -46,6 +50,8 @@ První skupinu tvoří hypotézy, předpokládající působení inteligentních
 
 Hypotézy kolem antihmoty:
 
+  
+
 1\. Pád antimeteoritu (1947)
 
 2\. Anihilace antihmoty v atmosféře (1958)
@@ -60,6 +66,8 @@ Hypotézy kolem antihmoty:
 
 Náboženské hypotézy:
 
+  
+
 1\. Sestoupení evenského boha Agdy (Oglua) na Zemi (1908)
 
 2\. Přelet ohnivého draka (1908)
@@ -67,6 +75,8 @@ Náboženské hypotézy:
 3\. Opakování katastrofy Sodomy a Gomory (1950)
 
 Hypotézy geofyzikální:
+
+  
 
 1\. Výbuch jednoho nebo několika kulových blesků (1908)
 
@@ -89,6 +99,8 @@ Hypotézy geofyzikální:
 10\. Výbuch bahenního plynu, zapáleného bleskem (1967)
 
 Meteoritické hypotézy:
+
+  
 
 1\. Exploze skupinového meteoritu (1908)
 
@@ -146,6 +158,8 @@ Meteoritické hypotézy:
 
 Kometární hypotézy:
 
+  
+
 1\. Dopad „planety“ nebo komety za Angaru (1908)
 
 2\. Dopad Pons-Winneckeovy komety a roje Bootid (1926)
@@ -170,6 +184,8 @@ Kometární hypotézy:
 
 Syntetické hypotézy:
 
+  
+
 1\. Disociace ledového meteoritu a za vysoké teploty zahájená termojaderná reakce (1961)
 
 2\. Kosmická loď poháněná antihmotou, maskovaná jako kometa (1963)
@@ -188,7 +204,7 @@ Domněnka je trochu divoká, dokazuje však nejen trvalý zájem o tuto událos
 
 Nejhezčí na ní je, že nejen není tak bláznivá, jak se na první pohled zdá, ale naopak fyzikálně zcela přípustná. A co více, že by setkání s takovým objektem bylo patrně doprovázeno ještě efektnějším doprovodem, než jaký vědci i laičtí pozorovatelé registrovali při pádu tunguzského tělesa.
 
-M. J. Rees, který v časopise Observatory (1974) uveřejnil shrnující materiál o všech fyzikálně možných i nemožných černých dírách a o našich vědomostech o nich, soudí, že velmi mnoho „miniděr“ mohlo vzniknout při samém zrodu vesmíru, v první milióntině vteřiny po „velkém třesku“, big bangu (viz Tušení stínu). Mohou existovat dodnes. Minidíra hmotnosti Země by měla průměr (Schwarzschildův poloměr násobený dvěma) několik milimetrů, minidíra velikosti protonu by měla hmotu kolem 1015 g – názorněji řečeno miliardu tun. Mohla by cestovat velmi daleko a opravdu projít celou naší planetou nejen bez obtíží, ale i bez valného snížení rychlosti. Někteří badatelé dokonce soudí – a nelze jim oponovat pozorovacími argumenty, právě tak jako dosud nelze pouhým pozorováním vyvrátit domněnku, že Jupiter je osídlen malými růžovými slony – že plnou polovinu celkové hmoty naší Galaxie tvoří tyto bizarní a názorně nepředstavitelné objekty –
+M. J. Rees, který v časopise _Observatory_ (1974) uveřejnil shrnující materiál o všech fyzikálně možných i nemožných černých dírách a o našich vědomostech o nich, soudí, že velmi mnoho „miniděr“ mohlo vzniknout při samém zrodu vesmíru, v první milióntině vteřiny po „velkém třesku“, big bangu (viz _Tušení stínu_). Mohou existovat dodnes. Minidíra hmotnosti Země by měla průměr (Schwarzschildův poloměr násobený dvěma) několik milimetrů, minidíra velikosti protonu by měla hmotu kolem 1015 g – názorněji řečeno miliardu tun. Mohla by cestovat velmi daleko a opravdu projít celou naší planetou nejen bez obtíží, ale i bez valného snížení rychlosti. Někteří badatelé dokonce soudí – a nelze jim oponovat pozorovacími argumenty, právě tak jako dosud nelze pouhým pozorováním vyvrátit domněnku, že Jupiter je osídlen malými růžovými slony – že plnou polovinu celkové hmoty naší Galaxie tvoří tyto bizarní a názorně nepředstavitelné objekty –
 
 Minidíry s hmotností v rozmezí 1015 až 1018 gramů (miliarda až bilion tun) mohou za jistých okolností působením kvantově mechanických efektů explodovat a v době kratší než jedna vteřina uvolnit energii asi 1035 ergů. Takový ohňostroj by měl být registrovatelný v celé oblasti Galaxie a někteří autoři soudí, že záblesky gama-záření, zaznamenávané našimi stále zdokonalovanými přístroji, mají právě tento původ. Je to odvážná domněnka, ale o nic spekulativnější nebo exotičtější než mnohé jiné.
 
@@ -216,11 +232,11 @@ Ostatně – oněch „klepání na dveře“ je v poslední době více a ma
 
 A do třetice: 5. února 1967 v 18.55 prolétl nad kanadskou provincií Alberta tiše se pohybující rudomodrý bolid zářící tak intenzívně, že na dráze letu způsobil vypnutí fotobuněk, ovládajících pouliční osvětlení. Za obvyklých efektů rázové vlny a otřesů půdy vybuchl bolid – jak bylo možné zjistit na snímku jedné z fotokamer, zaznamenávajících průběh polárních září – ve výšce 13 km, což samo o sobě je fyzikálně přípustné: při rychlosti kolem 30 km·s−1 dosahuje již ve výšce kolem 20 km nad povrchem Země odpor atmosféry hodnot 8,5 t·m−2. Mohutné brzdění meteoru přechází v neméně mohutnou explozi, uvolňující na 1 kg hmoty meteoru ekvivalent 100 kg tritolu. Podle pozorování se však tento bolid pohyboval řádově menší rychlostí a jeho efektní zánik je tak trochu otazníkem. Výsledky hledacích skupin se blížily nule: byly nalezeny dva nepatrné úlomky šedého chondritu (nejobvyklejší typ meteoritů vůbec) o hmotnosti 48 mg a 94 mg, jejichž mateřským tělesem bolid mohl, a nemusel být.
 
-Velice pozoruhodný a velice podivný meteor prolétl 10. 8. 1972 – jak zvláštní shoda! – opět nad územím USA a Kanady. Podrobně jej popsal známý americký astronom L. Lacchia v červencovém čísle časopisu Sky and Telescope 1973. Těleso o hmotnosti asi 1000 tun bylo během svého více než minutového letu nad Utahem, Montanou a Albertou fotografováno z různých míst (astrofyzikální observatoř v Cambridgi sleduje šestnácti pozorovatelnami 400 000 čtverečních mil území ÚSA), což umožnilo zpracovat potřebné údaje a zjistit nejen 1500 km viditelné dráhy, ale extrapolovat i původní dráhu ve sluneční soustavě. Těleso vlétlo do atmosféry pod velmi malým úhlem, sestoupilo nad Montanou do výše 58 km a poté se opět zemskému povrchu vzdalovalo, opustilo atmosféru a zmizelo ve vesmíru. McCrosky, který spočítal jeho dráhu, určil i průměrnou rychlost – 15 km·s−1, z čehož soudí, že se rozhodně nejednalo o těleso umělé.
+Velice pozoruhodný a velice podivný meteor prolétl 10. 8. 1972 – jak zvláštní shoda! – opět nad územím USA a Kanady. Podrobně jej popsal známý americký astronom L. Lacchia v červencovém čísle časopisu _Sky and Telescope_ 1973. Těleso o hmotnosti asi 1000 tun bylo během svého více než minutového letu nad Utahem, Montanou a Albertou fotografováno z různých míst (astrofyzikální observatoř v Cambridgi sleduje šestnácti pozorovatelnami 400 000 čtverečních mil území ÚSA), což umožnilo zpracovat potřebné údaje a zjistit nejen 1500 km viditelné dráhy, ale extrapolovat i původní dráhu ve sluneční soustavě. Těleso vlétlo do atmosféry pod velmi malým úhlem, sestoupilo nad Montanou do výše 58 km a poté se opět zemskému povrchu vzdalovalo, opustilo atmosféru a zmizelo ve vesmíru. McCrosky, který spočítal jeho dráhu, určil i průměrnou rychlost – 15 km·s−1, z čehož soudí, že se rozhodně nejednalo o těleso umělé.
 
 Patrně opravdu ne, ale… Ale průlet tohoto meteoru s velmi výjimečnou dráhou byl provázen neméně výjimečnými úkazy, především akustickými. Hluk se totiž ozval pouze při vstupu meteoru do atmosféry ve výšce 76 km, pak ustal, ačkoli zvukové efekty registrujeme u meteoru obvykle teprve ve výškách pod 60 km. Rychlost 15 km·s−1 není nijak nedosažitelná i pozemské technice; některé umělé kosmické sondy, urychlené gravitačním polem planet, se v tomto okamžiku řítí kosmem několikanásobně rychleji. Také hmotnost by mohla řádově odpovídat např. kosmickému korábu blízké budoucnosti (a ovšem několikastupňovým nosným raketám dneška). A konečně výpočet změny dráhy tělesa zbrzděním v atmosféře a účinkem gravitačního pole Země v interpretaci McCroskyho se opírá o matematicko-fyzikální předpoklady. Není – a bohužel už ani nemůže být – potvrzen pozorováním. Pozoruhodný host putuje zase vesmírem a jeho návrat, šlo-li o meteor, je velmi, velmi nepravděpodobný…
 
-Jeden z dosud posledních pokusů o ukončení vleklé „tunguzské diskuse“ učinil koncem roku 1969 obsáhlou, velice podrobnou monografií sovětský geofyzik A. Zolotov. Nazývá se Problém tunguzské katastrofy v roce 1908 a vydalo ji nakladatelství Nauka. Autor píše na závěr knihy jakési shrnutí:
+Jeden z dosud posledních pokusů o ukončení vleklé „tunguzské diskuse“ učinil koncem roku 1969 obsáhlou, velice podrobnou monografií sovětský geofyzik A. Zolotov. Nazývá se _Problém tunguzské katastrofy_ _v roce 1908_ a vydalo ji nakladatelství Nauka. Autor píše na závěr knihy jakési shrnutí:
 
 „Tunguzské kosmické těleso nemohlo být ani kometou, nemohl to být ani roj částic nebo oblak kosmického prachu, nemohl to být ani běžný železný, kamenný nebo ledový meteorit…
 
@@ -286,7 +302,7 @@ Australity, mimochodem řečeno, kladou i další dosud nerozřešené otázky.
 
 Po všech vyjmenovaných „výstřednostech“ australitů bych se těm pozorovaným pádům ani příliš nedivil…
 
-O tektitech bylo podrobněji psáno v Tušení stínu. Zde pouze připomeňme, že dnes je všeobecně přijímána hypotéza o vzniku tektitů při dopadu kráterotvorných meteoritů s mimořádnou kinetickou energií, schopnou při změně v energii termickou vyvinout teplotu 10–20 tisíc K, vyslat horkou plazmatickou tlakovou vlnu, schopnou dokonce vytvářet diamanty z uhlíku karbonátových hornin a rozstříknout protavené horniny do širokého okolí – pole australitů se např. táhne takřka po čtvrtině zemského glóbu.
+O tektitech bylo podrobněji psáno v _Tušení stínu_. Zde pouze připomeňme, že dnes je všeobecně přijímána hypotéza o vzniku tektitů při dopadu kráterotvorných meteoritů s mimořádnou kinetickou energií, schopnou při změně v energii termickou vyvinout teplotu 10–20 tisíc K, vyslat horkou plazmatickou tlakovou vlnu, schopnou dokonce vytvářet diamanty z uhlíku karbonátových hornin a rozstříknout protavené horniny do širokého okolí – pole australitů se např. táhne takřka po čtvrtině zemského glóbu.
 
 Dosud se nepodařilo nalézt všechny matečné krátery pro různé skupiny tektitů – chybí např. pro tektity americké. Australity a jejich příbuzenstvo v jihovýchodní Asii (indočínity aj.) vznikly patrně, jak již bylo řečeno, podle této domněnky simultánními impakty, jejichž stopy nejspíše skryly anktarktické ledovce. Vltavíny-moldavity jsou vcelku jednomyslně připisovány impaktu, který vytvořil kráter Ries. I o tom byly vysloveny pochybnosti (pracovníky geologického oddělení Národního muzea v Praze) a kráter Ries byl připsán na konto kryptovulkanismu, provedené vrty však spolupůsobení vulkanismu neprokázaly. Nejpřesvědčivěji se zdá být prokázána korelace mezi tektity Pobřeží slonoviny a kráterem Ašanti, vyplněným zčásti jezerem Bosumtwi (Ghana).
 
@@ -302,7 +318,7 @@ Věda neuznává ani ledové meteority, ačkoli byly pozorovány a už v dávn
 
 Jisté ovšem je, že i v mracích mohou vznikat hydrometeority slušných rozměrů a hmotností, kterým již ani s největší licencí nelze říkat „kroupy“. Jeden z nich se roku 1975 představil se zvláštním smyslem pro přesný výběr cíle britskému fyzikovi R. R. Griffithsovi, jehož při bouřce minul o pouhé tři metry. Griffiths spěchal s nezbedným kusem ledu domů, uložil ho v lednici a druhý den předal k rozboru. Mikroskopickým i chemickým zkoumáním bylo bezpečně zjištěno, že ledový „meteorit“ vznikl z vodních par, kondenzovaných v mracích, že tedy opravdu jde o maxikroupu hmotnosti 600 g, až dosud největší, jaká kdy byla spolehlivě a ověřeně nalezena. Zdá se, a fyzikální předpoklady to potvrzují, že ledový hydrometeorit, který málem připravil britskou vědu o vynikajícího představitele, dosáhl takřka mezní a zcela mimořádné velikosti a hmotnosti. Staré kroniky se však přímo hemží zprávami o kusech ledu daleko a daleko větších a těžších. Doložené případy pádů ledových hmot tedy stěží vysvětlíme pouhými přerostlými kroupami.
 
-Odmítání existence ledových meteoritů je vlastně poněkud zvláštní. Vezmeme-li v úvahu dnešní představy o kometách (souhrnný materiál uveřejnil např. roku 1973 v časopise Astrophysics and Space Science Ernest J. Öpik), musíme připustit, že ačkoli při pozorování velkých meteoritických rojů, vzniklých patrně a někdy zcela určitě rozpadem komet, nepadají meteority, není uvolňování částic kometárního jádra a jejich vniknutí do zemské atmosféry v rozporu s fyzikálními předpoklady. Naopak.
+Odmítání existence ledových meteoritů je vlastně poněkud zvláštní. Vezmeme-li v úvahu dnešní představy o kometách (souhrnný materiál uveřejnil např. roku 1973 v časopise _Astrophysics and Space Science_ Ernest J. Öpik), musíme připustit, že ačkoli při pozorování velkých meteoritických rojů, vzniklých patrně a někdy zcela určitě rozpadem komet, nepadají meteority, není uvolňování částic kometárního jádra a jejich vniknutí do zemské atmosféry v rozporu s fyzikálními předpoklady. Naopak.
 
 Z jader některých komet se opravdu větší balvany nebo kusy ledu uvolňovat nemohou – např. mateřská kometa Perseid „nepropustí“ kamének větší než 1,5 cm. U menších komet, zejména přiblíží-li se značněji k Zemi, je situace příznivější. Z Enckeovy komety se mohou uvolňovat balvany až 85 cm v průměru, což dobře odpovídá jak „mlýnskému kameni“, tak ledovému tělesu z Jagotinu. Ostatně sám Ópik se domnívá, že k dceřinému meteoritickému roji Enckeovy komety, Tauridám, je třeba přiřadit několik ověřených pádů meteoritů.
 
@@ -316,13 +332,13 @@ Vyjmenované případy zdaleka nejsou nejbizarnější – letopisy a jiné z�
 
 Tato kniha ovšem v žádném případě nechce být sbírkou bizar­ností – pokud jde o podivné meteority jen upozorněním, že každý meteorit poskytuje cenné informace z kosmického prostoru a měl by být co nejrychleji a bez poškození, vyplývajícího obvykle z nezkrotné touhy po suvenýru, odevzdán odborníkům. Možná že by pak dříve nebo později došlo i k rehabilitaci tzv. pseudometeoritů a kdoví, snad i k zajímavým závěrům, týkajícím se dosud otevřených otázek o mnohokrát pozorovaných tělesech, potulujících se poněkud fantomaticky v nejbližším okolí naší rodné planety.
 
-Čím alespoň některá tělesa mohla být, naznačil ve svém souborném příspěvku do listu Spaceflight (1973, 122–131) Duncan A. Lunan z Glasgowské univerzity. Pokračoval vlastně ve výzkumu, započatém R. N. Bracewellem z Radioastronomického ústavu Stanfordské univerzity (USA), publikovaném již roku 1960 v časopise Nature (186, 670). Jde o novou vzrušující interpretaci zpožděného „odrazu“, lépe řečeno zpožděného navrácení rádiových signálů, zjišťovaného již od roku 1920 norskými, holandskými a francouzskými odborníky. (Za laskavé upozornění a zapůjčení původních materiálů děkuji prof. R. Peškovi.)
+Čím alespoň některá tělesa mohla být, naznačil ve svém souborném příspěvku do listu _Spaceflight_ (1973, 122–131) Duncan A. Lunan z Glasgowské univerzity. Pokračoval vlastně ve výzkumu, započatém R. N. Bracewellem z Radioastronomického ústavu Stanfordské univerzity (USA), publikovaném již roku 1960 v časopise _Nature_ (186, 670). Jde o novou vzrušující interpretaci zpožděného „odrazu“, lépe řečeno zpožděného navrácení rádiových signálů, zjišťovaného již od roku 1920 norskými, holandskými a francouzskými odborníky. (Za laskavé upozornění a zapůjčení původních materiálů děkuji prof. R. Peškovi.)
 
 Lunanova dosti odvážná domněnka vychází z celkem rozumného předpokladu: jestliže se chce jakákoli vyspělá vesmírná civilizace ohlásit do značné vzdálenosti např. stovky světelných let, je technicky nejschůdnějším prostředkem odeslání kosmické sondy, předvídané již roku 1960 I. S. Šklovským a Australanem R. N. Brace­wellem, schopné (astronomicky vzato) v bezprostřední blízkosti cílových planet vyhlédnuté hvězdy detekovat umělé elektromagnetické vlny a signály jimi zprostředkované a po několika vteřinách nebo minutách je vracet odesílateli jako nepochybné poselství o přítomnosti technicky poměrně náročného zařízení v blízkém kosmu. Modifikace a záměrné deformace signálu mohou být – jak uvidíme – nositelem další informace. Až dosud získané výsledky vedly např. J. Stronga (1965) k úvaze, že taková sonda již v blízkosti Země a Měsíce existuje, a to v některém tzv. ekvivalentním (libračním) bodě (centru) systému Země–Měsíc, nebo v jeho blízkosti, kde by její poloha byla relativně nerušena gravitačními vlivy, a tím stálá. V soustavě dvou těles, např. Země a Měsíce, existuje pět takových libračních center.
 
 Další výzkumy dokázaly, že tato hypotéza rozhodně nemůže být odmítnuta jako pouhá fantazie – ale i kdyby nebylo těchto výsledků, považuji ji přinejmenším za velmi uváženíhodnou pracovní domněnku vzhledem k několika skutečnostem.
 
-Není dosud zcela jisto, zda je možné počítat s relativistickým zkrácením času a tím prodloužením života kosmonautů proti délce života obyvatel Země, zvolené jako východisko souřadnic iner­ciálního systému, vzhledem k nimž se kosmická loď pohybuje. Právě když píši tuto kapitolu (1976), probíhá na stránkách Vesmíru na autorsky nejvyšší úrovni (Z. Horák, J. Langer, J. Grygar, J. Koštíř aj.) diskuse mezi astronomy, fyziky a biology o reálnosti takového jevu, využitelného případně kosmonautikou i k dosažení vzdálených hvězd, ba i cizích galaxií v rozmezí jednoho jediného lidského života kosmonauta, zatímco by na Zemi uplynuly milióny a miliardy let. Diskuse byla uzavřena neshodou prof. J. Koštíře s ostatními účastníky. Otázka tedy není definitivně vyřešena ani po stránce biologicko-fyzikální, tím méně po stránce etické.
+Není dosud zcela jisto, zda je možné počítat s relativistickým zkrácením času a tím prodloužením života kosmonautů proti délce života obyvatel Země, zvolené jako východisko souřadnic iner­ciálního systému, vzhledem k nimž se kosmická loď pohybuje. Právě když píši tuto kapitolu (1976), probíhá na stránkách _Vesmíru_ na autorsky nejvyšší úrovni (Z. Horák, J. Langer, J. Grygar, J. Koštíř aj.) diskuse mezi astronomy, fyziky a biology o reálnosti takového jevu, využitelného případně kosmonautikou i k dosažení vzdálených hvězd, ba i cizích galaxií v rozmezí jednoho jediného lidského života kosmonauta, zatímco by na Zemi uplynuly milióny a miliardy let. Diskuse byla uzavřena neshodou prof. J. Koštíře s ostatními účastníky. Otázka tedy není definitivně vyřešena ani po stránce biologicko-fyzikální, tím méně po stránce etické.
 
 Velmi pochybuji, že by mravně vyspělá společnost vůbec po­dobné lety připustila, i kdyby o ně byl zájem, což je nepravděpodobné. Nezkrotná vědychtivost není v tomto případě argumentem. Badateli, těžce postiženému faustovským nutkáním, který by se chystal vypravit se na dno mořského příkopu bez možnosti návratu, a především bez možnosti podat o výsledcích své cesty zprávu (cestovní zpráva za milión let či miliardu let, nedojde-li jen ke hrobům civilizace, bude asi stejné ceny, jako zpráva žádná; její aktuálnost znatelně vyvětrá), by bylo jistě v sebevražedné expedici zabráněno. A právem.
 
@@ -330,13 +346,13 @@ Vraťme se však ke zpožděným signálům.
 
 Poprvé zpoždění registrovali roku 1927 Američané A. H. Taylor a I. C. Young, kteří zjistili odrazy ve vzdálenosti asi 2900 a 10 000 km, vysvětlitelné dnes ovšem bez obtíží reflektováním vln ionosférou, vnitřními van Allenovými pásy. Na sklonku téhož roku však sdělil inženýr Hals, pracovník experimentální stanice firmy Philips v holandském Eindhovenu, profesoru C. Strómerovi z Oslo, že zjistil zpoždění odrážených signálů o plné tři vteřiny (při pokusech Taylora a Younga to byly setiny vteřiny). Hals předpokládal odraz o povrch Měsíce, Strómer o magnetosféru Země. Společně podnikli několik nezdařených pokusů. Teprve 11. října 1928 se úspěch dostavil – ale s překvapením. Zpoždění navrácených signálů totiž kolísalo od tří do patnácti vteřin. Strómer o tomto divu telegraficky informoval předního odborníka v oboru bezdrátové sdělovací techniky van der Pola, který ještě téhož večera experiment opakoval vysíláním přesně oddělených a omezených signálů v půlminutových intervalech. Zpoždění činila postupně 8, 11, 15, 8, 13, 3, 8, 8, 8, 12, 15, 13, 8 a 8 vteřin. Frekvence přesně souhlasila, poněkud pozměněno bylo trvání některých signálů.
 
-Celkem přijatelnou interpretaci těchto signálů, jejichž zpoždění bylo v době experimentů všemi zúčastněnými pochopitelně považováno za dosud neznámý přírodní a přirozený fenomén, podal elektronik P. Morrison (Bull. Phil. Soc., Washington, 16, 58, 1962), který nad výsledkem, pokud lze podle článku soudit, zkoprněl.
+Celkem přijatelnou interpretaci těchto signálů, jejichž zpoždění bylo v době experimentů všemi zúčastněnými pochopitelně považováno za dosud neznámý přírodní a přirozený fenomén, podal elektronik P. Morrison (_Bull. Phil. Soc., Washington_, 16, 58, 1962), který nad výsledkem, pokud lze podle článku soudit, zkoprněl.
 
 Materiál je příliš obsáhlý a jeho doložení nemůže být bez zkreslení zkracováno – Morrison zkrátka zjistil, že při vynesení frekvence signálů a jejich návratů na souřadnice grafu se objeví rozdělený diagram se zřetelnou hvězdnou mapou souhvězdí Pastýře (Bootes), přičemž pozice největší a nejznámější hvězdy tohoto souhvězdí, Alfy Bootis, Arktura, naznačuje, že program pro tento originální způsob sdělování domovského souhvězdí byl vypracován asi před 13 000 lety. Arktur, obr spektrální třídy K 2, má asi 23krát větší průměr než Slunce a je relativně nedaleko, 35 světelných let – kosmický objekt by se tedy od této hvězdy k Zemi za 13 000 let dostal leda při průměrné rychlosti letu řádově desetitisíce km za vteřinu. Je to možné? Nevím. Možná že projekce souhvězdí Boota na naši oblohu byla vypracována pro dobu před 13 000 lety, kdy se sonda ocitla mezi planetami slunečního systému, což mimochodem řečeno dost dobře souhlasí s předpokládaným zánikem Atlantidy a umožňuje zajímavé domněnky. Například spojitost této katastrofy s nepozemšťany a ponechání radiosondy v blízkosti Země až do doby, kdy se po vzniku nové civilizace objeví signály, jež bude možné přijmout a s přesně určeným zpožděním opět odvysílat…
 
 Doplňkem a potvrzením smělé Morrisonovy domněnky je vlastní Strömerův materiál. 11. října 1927 zachytil čtyři série navrácených signálů se zpožděním čtyř až patnáct sekund. Po malé úpravě (sám Strömer připouští, že jeho měření nebyla absolutně přesná, že však „poskytují spolehlivý obraz o kvantitativních ukazatelích ,jevu‘“) a opětném vynesení do systému navzájem kolmých souřadnic se objevuje znovu hvězdná mapa, tentokrát zpodobující větší část naší oblohy, kde ústředním a zřejmě hlavním objektem je opět Arktur.
 
-24\. října 1927 se zpožďování signálů opakovalo – bylo zaznamenáno celkem 48 „ozvěn“, naštěstí většinou současně a souhlasně stanicemi v Oslo i v Eindhovenu, takže je možné vyloučit vliv místních podmínek (pokud si ho lze vůbec představit), nebo nedokonalosti přístrojů. Diagram těchto zpoždění, bohužel až do Lunanovy práce z roku 1973 neúplný, vyšel v řadě odborných časopisů a byl zařazen i do Strömerovy knihy Polar Aurora (Oxford University Press, 1955). Grafické zachycení sledu všech zpoždění poskytuje hvězdnou mapu se souhvězdími Velkého medvěda, Honicích psů, Severní koruny, Vlasu Bereniky, Hada (hlavy), Herkula, Draka, Lyry a patrně i s několika hvězdami souhvězdí Malého medvěda a Lva. Ve středu je opět souhvězdí Bootes (Pastýř) – vše nasvědčuje tomu, že mírné posuny hvězd proti dnešnímu stavu představují zdánlivé změny jejich polohy za posledních 13 000 let. Podrobná a důvtipná interpretace této hvězdné mapy a jejího originálního podkladu se zdá ukazovat spíše než na Arktur na hvězdu Epsilon Bootis, Izar, na jejíž hypotetické planetární rodině však můžeme jen se značnou dávkou fantazie předpokládat život. Izar je totiž dvojhvězdou, a s další vzdálenější hvězdou dokonce vizuální trojhvězdou (v dalekohledu tak pěknou, že dostala název „pulcherrima“, nejkrásnější), vzdálenou 230 světelných let. Pokud kolem dvojhvězd vůbec předpokládáme planety, byly by jejich dráhy patrně (ale ne určitě – dostatečně přesvědčivé propočty drah dosud nebyly zveřejněny) značně komplikované a vystavovaly by planety střídavě extrémním podmínkám všeho druhu.
+24\. října 1927 se zpožďování signálů opakovalo – bylo zaznamenáno celkem 48 „ozvěn“, naštěstí většinou současně a souhlasně stanicemi v Oslo i v Eindhovenu, takže je možné vyloučit vliv místních podmínek (pokud si ho lze vůbec představit), nebo nedokonalosti přístrojů. Diagram těchto zpoždění, bohužel až do Lunanovy práce z roku 1973 neúplný, vyšel v řadě odborných časopisů a byl zařazen i do Strömerovy knihy _Polar Aurora_ (Oxford University Press, 1955). Grafické zachycení sledu všech zpoždění poskytuje hvězdnou mapu se souhvězdími Velkého medvěda, Honicích psů, Severní koruny, Vlasu Bereniky, Hada (hlavy), Herkula, Draka, Lyry a patrně i s několika hvězdami souhvězdí Malého medvěda a Lva. Ve středu je opět souhvězdí Bootes (Pastýř) – vše nasvědčuje tomu, že mírné posuny hvězd proti dnešnímu stavu představují zdánlivé změny jejich polohy za posledních 13 000 let. Podrobná a důvtipná interpretace této hvězdné mapy a jejího originálního podkladu se zdá ukazovat spíše než na Arktur na hvězdu Epsilon Bootis, Izar, na jejíž hypotetické planetární rodině však můžeme jen se značnou dávkou fantazie předpokládat život. Izar je totiž dvojhvězdou, a s další vzdálenější hvězdou dokonce vizuální trojhvězdou (v dalekohledu tak pěknou, že dostala název „pulcherrima“, nejkrásnější), vzdálenou 230 světelných let. Pokud kolem dvojhvězd vůbec předpokládáme planety, byly by jejich dráhy patrně (ale ne určitě – dostatečně přesvědčivé propočty drah dosud nebyly zveřejněny) značně komplikované a vystavovaly by planety střídavě extrémním podmínkám všeho druhu.
 
 Zpoždění signálů zachytil Hals ještě 20. února, 28. února, 4. dubna, 9. dubna, 11. dubna a 23. dubna 1929. Šlo o menší množství „ozvěn“ a přesnější údaje nebyly publikovány.
 
@@ -346,25 +362,25 @@ Také zpráva, vyslaná ze Země do vesmíru z obřího třistametrového radio
 
 Velmi podobně, stejně důvtipně (a pro laika stejně kabalisticky nesrozumitelně) šifrované poselství zpožďovaných „ozvěn“ v Lunanově podání zní:
 
-Odtud začněte číst.
+> Odtud začněte číst.
 
-Naším domovem je hvězda Epsilon Bootis.
+> Naším domovem je hvězda Epsilon Bootis.
 
-Je to dvojhvězda.
+> Je to dvojhvězda.
 
-Žijeme na šesté planetě ze sedmi
+> Žijeme na šesté planetě ze sedmi
 
-počítáno od našeho Slunce,
+> počítáno od našeho Slunce,
 
-které je větší z obou hvězd dvouhvězdy.
+> které je větší z obou hvězd dvouhvězdy.
 
-Šestá planeta má jeden měsíc, čtvrtá planeta tři,
+> Šestá planeta má jeden měsíc, čtvrtá planeta tři,
 
-první až třetí po jednom.
+> první až třetí po jednom.
 
-Naše sonda je na oběžné dráze kolem vašeho Měsíce.
+> Naše sonda je na oběžné dráze kolem vašeho Měsíce.
 
-Odeslané mapy vám určují pozici Arkturu.
+> Odeslané mapy vám určují pozici Arkturu.
 
 Jak je vidět, máme adresu.
 
@@ -406,6 +422,6 @@ Nemůže opravdu?
 
 Netvrdil bych to s naprostou jistotou. Počet zdrojů rádiového záření na naší planetě vzrůstá geometrickou řadou. Naše zkušenosti o jeho biologickém účinku jsou kratičké, sotva několik let staré, a dosud zdaleka neopustily půdu experimentálních laboratoří. Nemáme představu, jakými mechanismy by mohlo rádiové záření působit např. na genetický základ, genom člověka. Mohlo by to být působení plíživé, protrahované, manifestující se teprve po řadě generací. Vzpomeňme na „případ DDT“. Objevitel jeho insekticidního účinku švýcarský vědec P. H. Müller obdržel roku 1948 Nobelovu cenu. Jistě právem – uchránil milióny lidí malárie, různých encefalitid, spavé nemoci atd. Dnes je jednou z vážných starostí lidstva snaha o zákaz používání DDT vůbec a pokusy o jeho odstranění ze světového oceánu a z tkání všech zvířat a bohužel i člověka, kde působí prokazatelně nepříznivě. A kromě toho kvantová fyzika s jistým překvapením stále znovu a znovu zjišťuje, že ke „spuštění“ biologických procesů, jichž se zúčastňuje např. celá buňka nebo dokonce celý orgán, postačí neočekávaně nepatrný impuls. Při úvahách o fotosyntéze zelených rostlin se licitovalo od několika tisíc potřebných fotonů ke stovkám, desítkám a posléze několika málo elementárním částicím světla. Definitivní výsledek zní: k zahájení velesložitého komplexu fotosyntetických reakcí postačí jeden jediný foton. V tomto případě se osvědčilo husitské heslo „na množství nehleďte“. Neosvědčí se i v budoucnosti po dalším zkoumání dávky rádiového záření, schopného navodit procesy, vedoucí k netepelnému poškození buněk a tkání?
 
-Kdyby tomu tak bylo, lze očekávat, že každá technická civilizace bude hledat jiné možnosti komunikace než bezdrátové spojení a jiné možnosti lokace než vysílání svazků mikrovln a přijímání jejich odrazů. Snad by to byl jen jeden z kroků na přechodu (nikoli při návratu, ten není možný) k netechnické civilizaci, předvídaný S. Lemem v knize Summa technologiae. Snad jen dílčí ústupek, kompenzovaný např. využitím gravitačních vln, soustavy retranslačních laserových stanic nebo jiným zařízením. V každém případě by pak snahy o dorozumění mezi planetami vzdálených hvězd neprobíhaly podle dnešní představy programu CETI, totiž vysíláním mimořádně silných směrovaných signálů k vytipovaným oblastem oblohy, nebo naopak pokusy o jejich odposlech z prostoru obzvláště perspektivních hvězd. Hygienikové těchto planet, jejichž populace, jak čtenáři Tušení stínu vědí, by se patrně principiálně biologickou skladbou příliš nelišila od člověka, by instalaci zdrojů vysokofrekvenčních polí na mateřské planetě zakázali. Schůdným východiskem byť i opožděného ukojení nezkrotné zvědavosti by se mohly nejspíše stát kosmické sondy, zahajující činnost teprve po zachycení rádiových signálů civilizace dobrodruhů, která si toto riziko ještě dopřává.
+Kdyby tomu tak bylo, lze očekávat, že každá technická civilizace bude hledat jiné možnosti komunikace než bezdrátové spojení a jiné možnosti lokace než vysílání svazků mikrovln a přijímání jejich odrazů. Snad by to byl jen jeden z kroků na přechodu (nikoli při návratu, ten není možný) k netechnické civilizaci, předvídaný S. Lemem v knize _Summa technologiae_. Snad jen dílčí ústupek, kompenzovaný např. využitím gravitačních vln, soustavy retranslačních laserových stanic nebo jiným zařízením. V každém případě by pak snahy o dorozumění mezi planetami vzdálených hvězd neprobíhaly podle dnešní představy programu CETI, totiž vysíláním mimořádně silných směrovaných signálů k vytipovaným oblastem oblohy, nebo naopak pokusy o jejich odposlech z prostoru obzvláště perspektivních hvězd. Hygienikové těchto planet, jejichž populace, jak čtenáři _Tušení stínu_ vědí, by se patrně principiálně biologickou skladbou příliš nelišila od člověka, by instalaci zdrojů vysokofrekvenčních polí na mateřské planetě zakázali. Schůdným východiskem byť i opožděného ukojení nezkrotné zvědavosti by se mohly nejspíše stát kosmické sondy, zahajující činnost teprve po zachycení rádiových signálů civilizace dobrodruhů, která si toto riziko ještě dopřává.
 
 Jak je vidět, dostali jsme se od tunguzského tělesa dost daleko. Autor doufá, že ne tak daleko, aby nebyl jasný záměr naznačit potřebu trvalého a opětovného zkoumání všeho, co kolem naší Země létá a co vzbuzuje pochybnosti a otázky jakéhokoli druhu. Možná že tato zvědavost přinese v budoucnosti vytoužené ovoce.
