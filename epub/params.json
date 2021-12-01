@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Tušení souvislosti",
@@ -6,7 +7,9 @@
       "author": "Ludvík Souček",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-23T14:19:55.537Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven1-cast ",
@@ -32,7 +35,7 @@
         "filename": "tuseni_souvislosti_001.md",
         "xhtml": "tuseni_souvislosti_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -922,3 +925,4 @@
     "generatedAt": 1637679231574
   }
 }
+
