@@ -9,9 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-23T14:19:55.537Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - tuseni_souvislosti_040.html
-  - tuseni_souvislosti_001.html
   - tuseni_souvislosti_002.html
   - tuseni_souvislosti_003.html
   - tuseni_souvislosti_005.html
@@ -49,11 +49,13 @@ readingOrder:
   - tuseni_souvislosti_037.html
   - tuseni_souvislosti_038.html
   - tuseni_souvislosti_039.html
+  - colophon.html
 tocBase:
   - id: section-1
     children:
       - link: tuseni_souvislosti_005.html
         title: CITÁTY
+        hiddenTitle: true
       - link: tuseni_souvislosti_006.html
         title: POSUNOVÁNÍ HRANIC
       - link: tuseni_souvislosti_008.html
@@ -66,12 +68,13 @@ tocBase:
         title: 'METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ '
       - link: tuseni_souvislosti_038.html
         title: 'OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM '
-    numberedChildren: false
+    isSection: true
 static:
   - style
   - scripts
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
