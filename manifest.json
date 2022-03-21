@@ -1,16 +1,17 @@
 {
   "author": "Ludvík Souček",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "soucek-tuseni-souvislosti-702edea",
+  "identifier": "soucek-tuseni-souvislosti-24d3fb0",
   "languagecode": "cs",
   "modified": "2021-11-23T14:19:55.537Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Tušení souvislosti",
-  "revision": "702edea",
+  "revision": "24d3fb0",
   "generatedAt": {
-    "date": "Mon Mar 21 2022 18:10:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647886207658
+    "date": "Mon Mar 21 2022 18:19:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647886751622
   },
   "documents": [
     {
@@ -76,13 +77,13 @@
     {
       "title": "POSUNOVÁNÍ HRANIC • Tušení souvislosti",
       "file": "tuseni_souvislosti_006.html",
-      "words": 119,
-      "chars": 761,
-      "ideas": 11,
+      "words": 30415,
+      "chars": 207650,
+      "ideas": 392,
       "role": "chapter",
       "order": 3,
       "prev": "tuseni_souvislosti_005.html",
-      "next": "tuseni_souvislosti_007.html",
+      "next": "tuseni_souvislosti_008.html",
       "toc": [
         {
           "index": 0,
@@ -94,35 +95,15 @@
       ]
     },
     {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_007.html",
-      "words": 30296,
-      "chars": 206889,
-      "ideas": 381,
+      "title": "PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY  • Tušení souvislosti",
+      "file": "tuseni_souvislosti_008.html",
+      "words": 2779,
+      "chars": 19241,
+      "ideas": 39,
       "role": "chapter",
       "order": 4,
       "prev": "tuseni_souvislosti_006.html",
-      "next": "tuseni_souvislosti_008.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY  • Tušení souvislosti",
-      "file": "tuseni_souvislosti_008.html",
-      "words": 116,
-      "chars": 733,
-      "ideas": 6,
-      "role": "chapter",
-      "order": 5,
-      "prev": "tuseni_souvislosti_007.html",
-      "next": "tuseni_souvislosti_009.html",
+      "next": "tuseni_souvislosti_012.html",
       "toc": [
         {
           "index": 0,
@@ -134,75 +115,15 @@
       ]
     },
     {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_009.html",
-      "words": 7,
-      "chars": 39,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 6,
-      "prev": "tuseni_souvislosti_008.html",
-      "next": "tuseni_souvislosti_010.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_010.html",
-      "words": 2485,
-      "chars": 17266,
-      "ideas": 28,
-      "role": "chapter",
-      "order": 7,
-      "prev": "tuseni_souvislosti_009.html",
-      "next": "tuseni_souvislosti_011.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_011.html",
-      "words": 171,
-      "chars": 1203,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 8,
-      "prev": "tuseni_souvislosti_010.html",
-      "next": "tuseni_souvislosti_012.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "MAMUTI MAJÍ STÁLE CO ŘÍCI • Tušení souvislosti",
       "file": "tuseni_souvislosti_012.html",
-      "words": 146,
-      "chars": 824,
-      "ideas": 13,
+      "words": 15548,
+      "chars": 104584,
+      "ideas": 216,
       "role": "chapter",
-      "order": 9,
-      "prev": "tuseni_souvislosti_011.html",
-      "next": "tuseni_souvislosti_013.html",
+      "order": 5,
+      "prev": "tuseni_souvislosti_008.html",
+      "next": "tuseni_souvislosti_016.html",
       "toc": [
         {
           "index": 0,
@@ -214,75 +135,15 @@
       ]
     },
     {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_013.html",
-      "words": 27,
-      "chars": 131,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 10,
-      "prev": "tuseni_souvislosti_012.html",
-      "next": "tuseni_souvislosti_014.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_014.html",
-      "words": 15260,
-      "chars": 102826,
-      "ideas": 200,
-      "role": "chapter",
-      "order": 11,
-      "prev": "tuseni_souvislosti_013.html",
-      "next": "tuseni_souvislosti_015.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_015.html",
-      "words": 115,
-      "chars": 803,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 12,
-      "prev": "tuseni_souvislosti_014.html",
-      "next": "tuseni_souvislosti_016.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "HROZBA MAGNETICKÉHO POLE  • Tušení souvislosti",
       "file": "tuseni_souvislosti_016.html",
-      "words": 416,
-      "chars": 2736,
-      "ideas": 8,
+      "words": 14556,
+      "chars": 100330,
+      "ideas": 218,
       "role": "chapter",
-      "order": 13,
-      "prev": "tuseni_souvislosti_015.html",
-      "next": "tuseni_souvislosti_017.html",
+      "order": 6,
+      "prev": "tuseni_souvislosti_012.html",
+      "next": "tuseni_souvislosti_035.html",
       "toc": [
         {
           "index": 0,
@@ -294,375 +155,15 @@
       ]
     },
     {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_017.html",
-      "words": 13611,
-      "chars": 94106,
-      "ideas": 171,
-      "role": "chapter",
-      "order": 14,
-      "prev": "tuseni_souvislosti_016.html",
-      "next": "tuseni_souvislosti_018.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_018.html",
-      "words": 14,
-      "chars": 73,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 15,
-      "prev": "tuseni_souvislosti_017.html",
-      "next": "tuseni_souvislosti_019.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_019.html",
-      "words": 13,
-      "chars": 72,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 16,
-      "prev": "tuseni_souvislosti_018.html",
-      "next": "tuseni_souvislosti_020.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_020.html",
-      "words": 19,
-      "chars": 131,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 17,
-      "prev": "tuseni_souvislosti_019.html",
-      "next": "tuseni_souvislosti_021.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_021.html",
-      "words": 13,
-      "chars": 71,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 18,
-      "prev": "tuseni_souvislosti_020.html",
-      "next": "tuseni_souvislosti_022.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_022.html",
-      "words": 10,
-      "chars": 51,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 19,
-      "prev": "tuseni_souvislosti_021.html",
-      "next": "tuseni_souvislosti_023.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_023.html",
-      "words": 9,
-      "chars": 59,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 20,
-      "prev": "tuseni_souvislosti_022.html",
-      "next": "tuseni_souvislosti_024.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_024.html",
-      "words": 14,
-      "chars": 93,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 21,
-      "prev": "tuseni_souvislosti_023.html",
-      "next": "tuseni_souvislosti_025.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_025.html",
-      "words": 27,
-      "chars": 167,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 22,
-      "prev": "tuseni_souvislosti_024.html",
-      "next": "tuseni_souvislosti_026.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_026.html",
-      "words": 27,
-      "chars": 167,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 23,
-      "prev": "tuseni_souvislosti_025.html",
-      "next": "tuseni_souvislosti_027.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_027.html",
-      "words": 9,
-      "chars": 51,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 24,
-      "prev": "tuseni_souvislosti_026.html",
-      "next": "tuseni_souvislosti_028.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_028.html",
-      "words": 9,
-      "chars": 53,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 25,
-      "prev": "tuseni_souvislosti_027.html",
-      "next": "tuseni_souvislosti_029.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_029.html",
-      "words": 35,
-      "chars": 244,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 26,
-      "prev": "tuseni_souvislosti_028.html",
-      "next": "tuseni_souvislosti_030.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_030.html",
-      "words": 16,
-      "chars": 81,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 27,
-      "prev": "tuseni_souvislosti_029.html",
-      "next": "tuseni_souvislosti_031.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_031.html",
-      "words": 31,
-      "chars": 195,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 28,
-      "prev": "tuseni_souvislosti_030.html",
-      "next": "tuseni_souvislosti_032.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_032.html",
-      "words": 4,
-      "chars": 17,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 29,
-      "prev": "tuseni_souvislosti_031.html",
-      "next": "tuseni_souvislosti_033.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_033.html",
-      "words": 4,
-      "chars": 18,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 30,
-      "prev": "tuseni_souvislosti_032.html",
-      "next": "tuseni_souvislosti_034.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_034.html",
-      "words": 275,
-      "chars": 1945,
-      "ideas": 5,
-      "role": "chapter",
-      "order": 31,
-      "prev": "tuseni_souvislosti_033.html",
-      "next": "tuseni_souvislosti_035.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ  • Tušení souvislosti",
       "file": "tuseni_souvislosti_035.html",
-      "words": 44,
-      "chars": 288,
-      "ideas": 5,
+      "words": 10809,
+      "chars": 72962,
+      "ideas": 212,
       "role": "chapter",
-      "order": 32,
-      "prev": "tuseni_souvislosti_034.html",
-      "next": "tuseni_souvislosti_036.html",
+      "order": 7,
+      "prev": "tuseni_souvislosti_016.html",
+      "next": "tuseni_souvislosti_038.html",
       "toc": [
         {
           "index": 0,
@@ -674,80 +175,20 @@
       ]
     },
     {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_036.html",
-      "words": 10343,
-      "chars": 70024,
-      "ideas": 204,
-      "role": "chapter",
-      "order": 33,
-      "prev": "tuseni_souvislosti_035.html",
-      "next": "tuseni_souvislosti_037.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_037.html",
-      "words": 422,
-      "chars": 2650,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 34,
-      "prev": "tuseni_souvislosti_036.html",
-      "next": "tuseni_souvislosti_038.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM  • Tušení souvislosti",
       "file": "tuseni_souvislosti_038.html",
-      "words": 181,
-      "chars": 1079,
-      "ideas": 12,
+      "words": 14160,
+      "chars": 98019,
+      "ideas": 238,
       "role": "chapter",
-      "order": 35,
-      "prev": "tuseni_souvislosti_037.html",
-      "next": "tuseni_souvislosti_039.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_039.html",
-      "words": 13979,
-      "chars": 96940,
-      "ideas": 226,
-      "role": "chapter",
-      "order": 36,
-      "prev": "tuseni_souvislosti_038.html",
+      "order": 8,
+      "prev": "tuseni_souvislosti_035.html",
       "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM",
           "id": null,
           "children": []
         }
@@ -761,7 +202,7 @@
       "ideas": 20,
       "role": "colophon",
       "order": null,
-      "prev": "tuseni_souvislosti_039.html",
+      "prev": "tuseni_souvislosti_038.html",
       "next": null,
       "toc": [
         {

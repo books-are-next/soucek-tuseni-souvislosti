@@ -1,12 +1,13 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Tušení souvislosti",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ludvík Souček",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-23T14:19:55.537Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie"
     },
@@ -37,7 +38,8 @@
         "role": "cover",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "filename": "tuseni_souvislosti_004.md",
@@ -46,7 +48,8 @@
         "role": "colophon",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       },
       {
         "isSection": true,
@@ -60,7 +63,8 @@
             "role": "chapter",
             "inToc": false,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "tuseni_souvislosti_003.md",
@@ -69,7 +73,8 @@
             "role": "chapter",
             "inToc": false,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "tuseni_souvislosti_005.md",
@@ -80,7 +85,8 @@
             "title": "CITÁTY",
             "hiddenTitle": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "tuseni_souvislosti_006.md",
@@ -90,7 +96,9 @@
             "inToc": true,
             "title": "POSUNOVÁNÍ HRANIC",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "hungry": true,
+            "devoured": false
           },
           {
             "filename": "tuseni_souvislosti_007.md",
@@ -99,7 +107,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_008.md",
@@ -109,7 +118,9 @@
             "inToc": true,
             "title": "PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY ",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "tuseni_souvislosti_009.md",
@@ -118,7 +129,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_010.md",
@@ -127,7 +139,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_011.md",
@@ -136,7 +149,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_012.md",
@@ -146,7 +160,9 @@
             "inToc": true,
             "title": "MAMUTI MAJÍ STÁLE CO ŘÍCI",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "tuseni_souvislosti_013.md",
@@ -155,7 +171,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_014.md",
@@ -164,7 +181,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_015.md",
@@ -173,7 +191,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_016.md",
@@ -183,7 +202,9 @@
             "inToc": true,
             "title": "HROZBA MAGNETICKÉHO POLE ",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "tuseni_souvislosti_017.md",
@@ -192,7 +213,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_018.md",
@@ -201,7 +223,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_019.md",
@@ -210,7 +233,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_020.md",
@@ -219,7 +243,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_021.md",
@@ -228,7 +253,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_022.md",
@@ -237,7 +263,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_023.md",
@@ -246,7 +273,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_024.md",
@@ -255,7 +283,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_025.md",
@@ -264,7 +293,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_026.md",
@@ -273,7 +303,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_027.md",
@@ -282,7 +313,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_028.md",
@@ -291,7 +323,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_029.md",
@@ -300,7 +333,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_030.md",
@@ -309,7 +343,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_031.md",
@@ -318,7 +353,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_032.md",
@@ -327,7 +363,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_033.md",
@@ -336,7 +373,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_034.md",
@@ -345,7 +383,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_035.md",
@@ -355,7 +394,9 @@
             "inToc": true,
             "title": "METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ ",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "tuseni_souvislosti_036.md",
@@ -364,7 +405,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_037.md",
@@ -373,7 +415,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           },
           {
             "filename": "tuseni_souvislosti_038.md",
@@ -383,7 +426,9 @@
             "inToc": true,
             "title": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM ",
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "tuseni_souvislosti_039.md",
@@ -392,9 +437,11 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "devoured": true
           }
-        ]
+        ],
+        "devoured": false
       },
       {
         "filename": "tuseni_souvislosti_040.md",
@@ -403,7 +450,8 @@
         "role": "colophon",
         "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       }
     ]
   },
@@ -922,6 +970,6 @@
       "user": "books-are-next",
       "repo": "soucek-tuseni-souvislosti"
     },
-    "generatedAt": 1647886148924
+    "generatedAt": 1647886679578
   }
 }
