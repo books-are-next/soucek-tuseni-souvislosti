@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > Věříme-li v existenci života ve vesmíru i mimo naši Zemi (a těžko je v ni nevěřit nejen z velmi žádoucí skromnosti tváří v tvář triliardám hvězd podobných Slunci, ale i vzhledem ke zřejmé zákonité tendenci hmoty zjemňovat svůj pohyb a strukturu až k autoregulujícím se formám, schopným bezchybné reprodukce a úspěšně čelícím entropii, jinými slovy životu), věříme-li dokonce v jakousi jeho ubikvitu a obecnou rozprostřenost, musíme si dříve nebo později položit otázku, která padla již v Tušení stínu. Proč zde ještě nejsou?

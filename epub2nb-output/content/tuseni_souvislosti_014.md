@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Podivné a v dějinách tvorstva zřejmě neobvykle náhlé vymizení jurské živočišné i rostlinné „dekorace“, především suverénních hromovládců, obrovských praještěrů, je dodnes nevyřešenou hádankou, zasutou ovšem asi 130 milióny let, a tedy příliš vzdálenou v minulosti, než abychom směli doufat v jiné než víceméně důvtipné hypotetické vysvětlení. Množství takových hypotéz bylo již zavrženo, další mají své zastánce a mnohé budou ještě nepochybně zkonstruovány s postupujícím poznáním zákonitostí přírody.

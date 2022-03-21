@@ -1,5 +1,6 @@
 ---
 title: MAMUTI MAJÍ STÁLE CO ŘÍCI
+contentType: prose
 ---
 
 > Hory zajisté přinášejí mu pastvu, a všechna  

@@ -1,5 +1,6 @@
 ---
 title: POSUNOVÁNÍ HRANIC
+contentType: prose
 ---
 
 > Dějiny člowěčenstva jsau Próteus; kterýž rozličným jednotliwcům rozličně, ano i jedné a též mysli w rozmanitých jewí se podobách. Potřebí k tomu zwláštní jeho přízně, aby na otázku: „Co bylo a jest?“ poněkud zewrubně odpověděl; na otázku: „Co bude?“ obyčejně mlčíwá, aneb jen nejobecnějších odpowědí udílí.

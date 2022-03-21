@@ -1,5 +1,6 @@
 ---
 title: "HROZBA MAGNETICKÉHO POLE\_"
+contentType: prose
 ---
 
 > Člověk už dříve jednal z nevědomosti: nyní si nevědomost vyžadovala vysokou daň. Van Allenovy pásy, prstencovitá pole záření kolem zeměkoule, byly jadernými výbuchy mocně aktivovány. Radiační pásy počaly pulsovat, stahovat se a opět roztahovat. Viditelný efekt těchto poruch byl pramalý a omezoval se zejména na efektní polární záře, viditelné až v severní Africe. Účinky pro život na Zemi byly daleko trvalejší. Biosféra byla skropena dvěma krátkými, ale řádnými sprškami tvrdého záření. Dlouhodobé výsledky těchto vysokých dávek záření nebylo lze dosud, sotva rok po události, předpovědět. Avšak bezprostřední výsledky byly zřetelné ažaž. Většina obyvatelstva Země dočasně onemocněla příznaky nemoci, podobné chřipce a spojené s dávením. Děti utrpěly nejvíce. Mnohé – jako Frank – zemřely, jiné pozbyly vlasy nebo nehty. Většina těhotných žen potratila nebo porodila zrůdy. Zvířata, zejména žijící pod širým nebem, trpěla stejně. Zprávy z afrických rezervací hlásily, že velká zvířata byla těžce postižena. Jen polární tur pižmový a plachý sob netrpěli, jak se zdálo, žádné škody. Vysoké procento – odborníci mluvili o 85 % – domácích koček a psů onemocnělo rakovinou a prašivinou a muselo být utraceno.

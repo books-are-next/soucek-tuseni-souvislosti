@@ -1,5 +1,6 @@
 ---
 title: "PROUTEK CÍSAŘE YÜ A\_DRAČÍ ŽÍLY\_"
+contentType: prose
 ---
 
 > … nedovolili mi používat ten proutek, přinutivše mne napřed zříci se jakékoli smlouvy s ďáblem, chtěli, abych připevnil kousek posvěceného vosku na konec svého proutku a při otáčení proutku abych pronesl zaklínání ďábla.

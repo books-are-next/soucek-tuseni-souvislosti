@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Proutkařství je poprvé v evropské literatuře zaznamenáno u Římana Plinia Staršího (23–79 n. l.), pak prochází souvisle dějinami s občasnými peripetiemi, jakou bylo například odsouzení manželů Martiny de Borterod a důlního inspektora Jeana de Chaseteleta, barona z Bosseaulley, za zřejmě ďábelské objevení sto padesáti ložisek zlata, stříbra, mědi, olova, zinku, antimonu, železa atd. pomocí proutku, do Bastily. Stalo se to roku 1632 na rozkaz krále Ludvíka XIII., avšak spory o proutkařství pokračují vesele dodnes, právě tak jako proutkaření samo. Zájmem o ně sj neposloužil ani chemik J. R. Glauber (1604–1668), ani opat Vallemont, který na rozhraní 17\. a 18\. století vydal knihu _Okultní fyzika neboli traktát o kouzelném proutku_ a dozvěděl se od pátera Lebruna, že proutkařství a jeho úspěchy nespočívají v elektrických či magnetických jevech, jak se domníval, ale v díle rukou ďáblových. Mnich Menestrier toto mínění vědecky podpořil: příčinou pohybu proutku musí být nějaký duch, a protože tímto duchem není ani bůh, ani andělé, protože by nás na to upozornilo Písmo svaté, znamená to, že je dílem rukou satanových. A bylo to.

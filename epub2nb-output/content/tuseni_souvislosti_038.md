@@ -1,5 +1,6 @@
 ---
 title: "OD ZMIZELÝCH LODÍ K\_JINÝM VESMÍRŮM\_"
+contentType: prose
 ---
 
 > Pan Rybka se najednou zastavil: právě když chtěl přejít přes běloučkou ulici ke svým vrátkům, viděl, že i ty šlépěje, které byly před ním, odbočují z chodníku a míří přes ulici k vrátkům. Kdo by to ke mně šel? řekl si zaraženě a sledoval očima ty šlépěje. Bylo jich pět; a přesně uprostřed ulice se končily ostrým otiskem levé nohy; dál už nebylo nic, jen neporušený a nedotčený sníh.

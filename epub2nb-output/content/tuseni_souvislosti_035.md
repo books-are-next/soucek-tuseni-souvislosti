@@ -1,5 +1,6 @@
 ---
 title: "METEORITY PODIVNÉ, ZNEUZNANÉ A\_PODNĚTNÉ\_"
+contentType: prose
 ---
 
 > Jedním z nejsmutnějších závěrů, plynoucích z dějin vědy, jsou dlouhá časová zpoždění mezi myšlenkou a jejím uplatněním.
