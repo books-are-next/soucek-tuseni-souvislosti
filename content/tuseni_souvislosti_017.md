@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Ne – van Allenovy pásy nevzplanou, alespoň to podle všech fyzikálních předpokladů neočekáváme. Přesto však projevil Brian W. Aldiss slušnou dávku až děsivé jasnozřivosti a naznačil jednu z možností sebezničení lidstva jemnějším a důvtipnějším způsobem než vulgárním kobercem atomových a termojaderných bomb: porušením magnetického pole, magnetosféry naší planety.

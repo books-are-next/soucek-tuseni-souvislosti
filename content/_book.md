@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Tušení souvislosti
@@ -69,6 +70,7 @@ tocBase:
       - link: tuseni_souvislosti_038.html
         title: 'OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM '
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

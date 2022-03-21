@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ![016.jpg](./resources/016_fmt.jpeg)

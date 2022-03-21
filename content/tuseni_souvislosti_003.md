@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Tušení souvislosti

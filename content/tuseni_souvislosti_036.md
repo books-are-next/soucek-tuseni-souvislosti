@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Pro lovce nespočetných a málokdy zcela průkazných indicií z dávné minulosti lidstva je vysloveně odstrašujícím případem a varováním tunguzská katastrofa, čtenářům jistě dobře známá. Pro upamatování: dne 30. června 1908 v 07 hodin 17 minut místního času prolétlo nad Sibiří žhavé těleso, popisované některými svědky jako „trubka“ nebo „kláda“, dopadlo o jedenáct vteřin později do oblasti severně od faktorie Vanovary v povodí Kamenné Tunguzky (60° 55’ s. š., 101° 57’ v. d.) způsobilo značné zpustošení širého okolí. Zájemci naleznou podrobnosti v odborném nebo populárně vědeckém tisku.

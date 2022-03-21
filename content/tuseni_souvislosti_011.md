@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > Nesrovnalosti v dálné minulosti lidstva mají ovšem celou řadu možných vysvětlení, tzv. „normálních“, odvoditelných od stávajících teorií i hypotéz, i vysvětlení mimořádná, existující mimo dosud uznávané názory, nebo dokonce v přímém rozporu s nimi.
