@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - tuseni_souvislosti_002.html
+  - promo.html
   - tuseni_souvislosti_003.html
   - tuseni_souvislosti_005.html
   - tuseni_souvislosti_006.html
