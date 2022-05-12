@@ -60,7 +60,7 @@
             "filename": "tuseni_souvislosti_002.md",
             "xhtml": "tuseni_souvislosti_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "inToc": false,
             "listType": "plain",
             "children": [],
@@ -970,6 +970,6 @@
       "user": "books-are-next",
       "repo": "soucek-tuseni-souvislosti"
     },
-    "generatedAt": 1647886679578
+    "generatedAt": 1652351366417
   }
 }

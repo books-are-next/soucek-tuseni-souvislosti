@@ -1,22 +1,35 @@
 {
-  "author": "Ludvík Souček",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "soucek-tuseni-souvislosti-24d3fb0",
-  "languagecode": "cs",
-  "modified": "2021-11-23T14:19:55.537Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Tušení souvislosti",
-  "revision": "24d3fb0",
+  "author": "Ludvík Souček",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "soucek-tuseni-souvislosti-f73e08a",
+  "revision": "f73e08a",
+  "readingOrder": [
+    "promo.html",
+    "tuseni_souvislosti_003.html",
+    "tuseni_souvislosti_005.html",
+    "tuseni_souvislosti_006.html",
+    "tuseni_souvislosti_008.html",
+    "tuseni_souvislosti_012.html",
+    "tuseni_souvislosti_016.html",
+    "tuseni_souvislosti_035.html",
+    "tuseni_souvislosti_038.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 21 2022 18:19:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647886751622
+    "date": "Thu May 12 2022 10:37:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351863705
   },
   "documents": [
     {
-      "title": "Tušení souvislosti",
-      "file": "tuseni_souvislosti_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +37,7 @@
       "order": 0,
       "prev": null,
       "next": "tuseni_souvislosti_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Tušení souvislosti",
@@ -42,7 +47,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "tuseni_souvislosti_002.html",
+      "prev": "promo.html",
       "next": "tuseni_souvislosti_005.html",
       "toc": [
         {
@@ -75,7 +80,7 @@
       ]
     },
     {
-      "title": "POSUNOVÁNÍ HRANIC • Tušení souvislosti",
+      "title": "POSUNOVÁNÍ HRANIC",
       "file": "tuseni_souvislosti_006.html",
       "words": 30415,
       "chars": 207650,
@@ -95,7 +100,7 @@
       ]
     },
     {
-      "title": "PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY  • Tušení souvislosti",
+      "title": "PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY",
       "file": "tuseni_souvislosti_008.html",
       "words": 2779,
       "chars": 19241,
@@ -115,7 +120,7 @@
       ]
     },
     {
-      "title": "MAMUTI MAJÍ STÁLE CO ŘÍCI • Tušení souvislosti",
+      "title": "MAMUTI MAJÍ STÁLE CO ŘÍCI",
       "file": "tuseni_souvislosti_012.html",
       "words": 15548,
       "chars": 104584,
@@ -135,7 +140,7 @@
       ]
     },
     {
-      "title": "HROZBA MAGNETICKÉHO POLE  • Tušení souvislosti",
+      "title": "HROZBA MAGNETICKÉHO POLE",
       "file": "tuseni_souvislosti_016.html",
       "words": 14556,
       "chars": 100330,
@@ -155,7 +160,7 @@
       ]
     },
     {
-      "title": "METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ  • Tušení souvislosti",
+      "title": "METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ",
       "file": "tuseni_souvislosti_035.html",
       "words": 10809,
       "chars": 72962,
@@ -175,7 +180,7 @@
       ]
     },
     {
-      "title": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM  • Tušení souvislosti",
+      "title": "OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM",
       "file": "tuseni_souvislosti_038.html",
       "words": 14160,
       "chars": 98019,
@@ -195,11 +200,11 @@
       ]
     },
     {
-      "title": "Tiráž • Tušení souvislosti",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 942,
-      "ideas": 20,
+      "words": 127,
+      "chars": 830,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "tuseni_souvislosti_038.html",
@@ -217,9 +222,9 @@
   ],
   "totals": {
     "all": {
-      "words": 88741,
-      "chars": 605886,
-      "ideas": 1349
+      "words": 88726,
+      "chars": 605774,
+      "ideas": 1345
     },
     "chapters": {
       "words": 88593,
