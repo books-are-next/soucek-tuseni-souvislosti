@@ -15,6 +15,8 @@ N. N. SEMJONOV, 1951
 
 
 
+  
+
 ![013.jpg](./resources/013_fmt.jpeg)
 
 Terasa v Baalbeku (foto: Zdenko Feyfar)
@@ -22,8 +24,6 @@ Terasa v Baalbeku (foto: Zdenko Feyfar)
 
 
 Proutkařství je poprvé v evropské literatuře zaznamenáno u Římana Plinia Staršího (23–79 n. l.), pak prochází souvisle dějinami s občasnými peripetiemi, jakou bylo například odsouzení manželů Martiny de Borterod a důlního inspektora Jeana de Chaseteleta, barona z Bosseaulley, za zřejmě ďábelské objevení sto padesáti ložisek zlata, stříbra, mědi, olova, zinku, antimonu, železa atd. pomocí proutku, do Bastily. Stalo se to roku 1632 na rozkaz krále Ludvíka XIII., avšak spory o proutkařství pokračují vesele dodnes, právě tak jako proutkaření samo. Zájmem o ně sj neposloužil ani chemik J. R. Glauber (1604–1668), ani opat Vallemont, který na rozhraní 17\. a 18\. století vydal knihu _Okultní fyzika neboli traktát o kouzelném proutku_ a dozvěděl se od pátera Lebruna, že proutkařství a jeho úspěchy nespočívají v elektrických či magnetických jevech, jak se domníval, ale v díle rukou ďáblových. Mnich Menestrier toto mínění vědecky podpořil: příčinou pohybu proutku musí být nějaký duch, a protože tímto duchem není ani bůh, ani andělé, protože by nás na to upozornilo Písmo svaté, znamená to, že je dílem rukou satanových. A bylo to.
-
-  
 
 Není úlohou této knihy rozhodovat o účasti boha či satana, a už vůbec ne obhajovat nebo naopak zatracovat proutkařství jako podvod a šalbu. Domnívám se, že takto formulovaná otázka byla již opuštěna, aby učinila místo základnímu výzkumu, jehož smyslem je vypátrat, jakým způsobem dochází k obecně známému jevu odklánění nebo otáčení proutku, ocitne-li se operátor nad nalezištěm rud, nádrží podzemních vod, tektonickou oblastí, ale i elektrovodnou, kanalizační či vodovodní sítí, podzemními umělými či přirozenými dutinami apod. Ačkoli jsou „teorie proutku“ (gravitační ze 17. století, později elektrická a elektromagnetická) i obecná teorie, objasňující proutkařství jako biofyzikální jev (existence vnějšího pole, proutkařem indikovaného, nebo funkce proutkaře jako aktivního lokátoru, vysílajícího a zpětně přijímajícího jakýsi signál) velmi zajímavé, nebudeme se jimi zabývat. Spokojme se zjištěním, že mnohá evropská naleziště rud v 15.–18. století byla objevena proutkaři; že by bez pomoci proutkařů nemohl proběhnout v letech 1908–1909 velkorysý průzkum vodních zdrojů bývalé Německé jihovýchodní Afriky pod vedením L. Uslara, odměněný 79 % úspěchů při osmi stech detekovaných místech, že bojující armády prvé i druhé světové války používaly proutkařů, bez nichž by byla existence Rommelových i italských jednotek na severoafrickém bojišti vážně ohrožena nedostatkem vody, že Džáváharlál Nehrú osobně disponoval šestičlennou skupinou proutkařů, že britská Společnost proutkařů vydává od roku 1932 vlastní časopis, že v USA je nyní registrováno 25 000 „diplomovaných“ proutkařů a že se výzkumem schopností operátorů zabývá z vlastních prostředků UNESCO.
 

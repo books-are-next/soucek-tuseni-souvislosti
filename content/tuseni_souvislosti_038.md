@@ -28,8 +28,6 @@ ZMIZENÍ PANA DAVENHEIMA
 
 Jednou z pobuřujících myšlenek pana Charlese Forta je představa o mimozemských bytostech, jejichž identitu se nesnaží blíže určit, občas lapajících – patrně ze studijních důvodů – ubohé pozemšťany.
 
-  
-
 Většinou se jim to, jak se zdá, daří bez obtíží a aniž by vzbudili přílišnou pozornost. Každé světové město má zvláštní oddělení policie, pátrající po pohřešovaných. Jenom v Paříži se ročně ztratí několik tisíc lidí, o jejichž vyhledání je požádána prefektura. Zkušení odborníci obvykle většinu pohřešovaných objeví, živých nebo mrtvých. Stále však zbývají stovky případů, připisovaných na účet dokonalých zločinů, obchodů s bílým masem, útěků před spravedlností a dalšími známými důvody.
 
 Jsou však i zmizení pozoruhodná a nevysvětlitelná, mezi něž patří jakési rozpuštění se britského diplomata Benjamina Bathursta na zalidněné návsi rakouského městečka Perleburgu 25. listopadu 1809 či farmáře Davida Langa na přehledné louce v Tennessee 23\. září 1880. Dodnes nebyl založen ad acta případ zmizení jedenáctiletého Oliviera Thomase ze dvora rodného statku poblíže Aberporthu ve Wallesu na Štědrý večer 1909 (jeho stopy končily stejně záhadně jako ony, nad nimiž žasl pan Rybka) i mnoho dalších.
@@ -286,6 +284,8 @@ Ivan Sanderson, neúnavný protějšek Isaaka Newtona, který ze zásady nevymý
 
 Domnívá se, že tyto poruchy jsou schopny měnit gravitaci a snad i působit na dosud nejneprobádanější fyzikální veličinu, na čas. Své tvrzení dokládá zjištěnými fakty, která se (což je u biologa sympatické) nesnaží fyzikálně nebo matematicky vykládat. Pouze je konstatuje a předkládá k úvaze.
 
+  
+
 ![035.jpg](./resources/035_fmt.jpeg)
 
 „Kritické zóny“ světa podle Ivana Sandersona odpovídají i zjištění sovětských badatelů, vycházejících z přenosu povrchu geoidu Země na plášť dvanáctistěnu
@@ -314,9 +314,13 @@ Paradoxy, spojené se singularitou v černé díře, totiž mají vztah k naš
 
 Podotýkám, že možnost výskytu černých děr potvrzují téměř všechny gravitační teorie, nejen Einsteinova teorie obecné relativity, a že na ni upozornil již roku 1798 slavný Pierre Simon Laplace (1749–1827). Přímý důkaz zatím chybí, ale vedoucí kosmogonikové (Zeldovič, Thorne atd.) se domnívají, že nepřímých důkazů je více než dost (P. Andrle – následující odstavec čerpám z něho).
 
+  
+
 ![036.jpg](./resources/036_fmt.jpeg)
 
 Názorná a o jednu dimenzi zjednodušená představa zakřivení prostoru hroutící se hmotou kolapsaru (podle Pavla Andrleho)
+
+  
 
 ![037.jpg](./resources/037_fmt.jpeg)
 
@@ -326,9 +330,13 @@ Ostatně astronomové již vytipovali dva velmi perspektivní kandidáty na čer
 
 O černých dírách bylo psáno v _Tušení stínu_, především na základě úvah J. Grygara (Hvězdy umírají vstoje, _Vesmír_ 53, 173, 1974) – od té doby byly navrženy fascinující kosmogonické aplikace. Jak známo, uplatňují se za kolapsu hvězd vzrůstající měrou relativistické efekty a zvětšuje se zakřivení prostoročasu. Vzniká černá díra (je-li kolabující hvězda hmotnější než dvě Slunce), „dokonalé nic“ se zdrcující a nepředstavitelnou gravitací. Za jistých okolností může rotující černá díra (cestu k poznání těchto možností otevřel Kerr novým řešením relativistických rovnic) proniknout z jednoho vesmíru do vesmíru druhého (oba jsou ovšem součástí našeho vesmíru, jediného a souborně obsahujícího vše, co bylo a bude objeveno) jako bílá díra. „Chodba“ spojující oba vesmíry se nazývá v astronomickém slangu červí díra a teoreticky (snad i prakticky) může podstatně zkracovat nebo prodlužovat cesty, spojující nekonečný počet vesmírů. Tato možnost naznačuje fascinující eventuality „manipulace“ s časem při zachování plné shody s fyzikálními zákony a bez nutnosti dosažení nadsvětelných rychlostí, zatím jen tušených v částicích, zvaných tachyony. I o tom již existuje rozsáhlá literatura (Feynmanovy diagramy atp.), nelze však zacházet do podrobností.
 
+  
+
 ![038.jpg](./resources/038_fmt.jpeg)
 
 Červí díra snad může netušeným způsobem zkrátit cestu mezi vzdálenými body našeho vesmíru…
+
+  
 
 ![039.jpg](./resources/039_fmt.jpeg)
 
@@ -434,9 +442,13 @@ K podrobnému pochopení myšlenky Borůvkovy a Herčíkovy je nezbytná znalo
 
 Borůvkův a Herčíkův model života spočívá na dvou předpokladech:
 
+  
+
 1\. Všechny organismy jsou čtyřrozměrné útvary v prostoru R4, pronikající naším prostorem R3 a zasahující do něho.
 
 2\. Všechny organismy v našem prostoru R3 jsou výsledkem průniku těchto čtyřrozměrných organismů z prostoru R4 do prostoru R3.
+
+  
 
 Podle této představy je vše živé vlastně čtyřrozměrnou bytostí v prostoru R4, zasahující do našeho prostoru jakýmsi difúzním dějem pomyslných částic z oblasti + do oblasti – Souhrn částic, nacházejících se právě v prostoru R3, vytváří aktuální stav a podobu rostliny, zvířete či člověka. Dynamickou stránkou a podobou této difúze, tohoto postupného pronikání, je zrození, růst, stárnutí a zánik. V místech průniku v prostoru R3 dochází ovšem k interakci čtyřrozměrné bytosti s atomy a molekulami „našeho“ světa. (Uvozovky proto, že i možné světy R4 i vícedimenzionální jsou stejně „naším“ světem jako prostor R3; nejsme však schopni názorně si je představovat, snad proto, že se náš mozek vyvinul v konfrontaci s výhradně „trojrozměrnou“ problematikou, zprostředkovanou smysly. Atomární děje, odehrávající se patrně ve vícerozměrných prostorech, nejsou a nikdy nebyly v oblasti našich bezprostředních zkušeností.) Prostor R3 působí zpětně na čtyřrozměrný organismus, který se tím pozměňuje. Sama představa pohybujících se (difundujících) částic čtyřrozměrného organismu vnáší do myšlenkového modelu čas jako pátou dimenzi.
 
