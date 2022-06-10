@@ -3,6 +3,8 @@ title: "OD ZMIZELÝCH LODÍ K\_JINÝM VESMÍRŮM\_"
 contentType: prose
 ---
 
+<section>
+
 > Pan Rybka se najednou zastavil: právě když chtěl přejít přes běloučkou ulici ke svým vrátkům, viděl, že i ty šlépěje, které byly před ním, odbočují z chodníku a míří přes ulici k vrátkům. Kdo by to ke mně šel? řekl si zaraženě a sledoval očima ty šlépěje. Bylo jich pět; a přesně uprostřed ulice se končily ostrým otiskem levé nohy; dál už nebylo nic, jen neporušený a nedotčený sníh.
 
 > To jsem blázen, řekl si pan Rybka.
@@ -24,7 +26,11 @@ KAREL ČAPEK: ŠLÉPĚJE
 AGATHA CHRISTIE:  
 ZMIZENÍ PANA DAVENHEIMA
 
+</section>
 
+
+
+<section>
 
 Jednou z pobuřujících myšlenek pana Charlese Forta je představa o mimozemských bytostech, jejichž identitu se nesnaží blíže určit, občas lapajících – patrně ze studijních důvodů – ubohé pozemšťany.
 
@@ -284,7 +290,9 @@ Ivan Sanderson, neúnavný protějšek Isaaka Newtona, který ze zásady nevymý
 
 Domnívá se, že tyto poruchy jsou schopny měnit gravitaci a snad i působit na dosud nejneprobádanější fyzikální veličinu, na čas. Své tvrzení dokládá zjištěnými fakty, která se (což je u biologa sympatické) nesnaží fyzikálně nebo matematicky vykládat. Pouze je konstatuje a předkládá k úvaze.
 
-  
+</section>
+
+<section>
 
 ![035.jpg](./resources/035_fmt.jpeg)
 
@@ -314,13 +322,17 @@ Paradoxy, spojené se singularitou v černé díře, totiž mají vztah k naš
 
 Podotýkám, že možnost výskytu černých děr potvrzují téměř všechny gravitační teorie, nejen Einsteinova teorie obecné relativity, a že na ni upozornil již roku 1798 slavný Pierre Simon Laplace (1749–1827). Přímý důkaz zatím chybí, ale vedoucí kosmogonikové (Zeldovič, Thorne atd.) se domnívají, že nepřímých důkazů je více než dost (P. Andrle – následující odstavec čerpám z něho).
 
-  
+</section>
+
+<section>
 
 ![036.jpg](./resources/036_fmt.jpeg)
 
 Názorná a o jednu dimenzi zjednodušená představa zakřivení prostoru hroutící se hmotou kolapsaru (podle Pavla Andrleho)
 
-  
+</section>
+
+<section>
 
 ![037.jpg](./resources/037_fmt.jpeg)
 
@@ -330,13 +342,17 @@ Ostatně astronomové již vytipovali dva velmi perspektivní kandidáty na čer
 
 O černých dírách bylo psáno v _Tušení stínu_, především na základě úvah J. Grygara (Hvězdy umírají vstoje, _Vesmír_ 53, 173, 1974) – od té doby byly navrženy fascinující kosmogonické aplikace. Jak známo, uplatňují se za kolapsu hvězd vzrůstající měrou relativistické efekty a zvětšuje se zakřivení prostoročasu. Vzniká černá díra (je-li kolabující hvězda hmotnější než dvě Slunce), „dokonalé nic“ se zdrcující a nepředstavitelnou gravitací. Za jistých okolností může rotující černá díra (cestu k poznání těchto možností otevřel Kerr novým řešením relativistických rovnic) proniknout z jednoho vesmíru do vesmíru druhého (oba jsou ovšem součástí našeho vesmíru, jediného a souborně obsahujícího vše, co bylo a bude objeveno) jako bílá díra. „Chodba“ spojující oba vesmíry se nazývá v astronomickém slangu červí díra a teoreticky (snad i prakticky) může podstatně zkracovat nebo prodlužovat cesty, spojující nekonečný počet vesmírů. Tato možnost naznačuje fascinující eventuality „manipulace“ s časem při zachování plné shody s fyzikálními zákony a bez nutnosti dosažení nadsvětelných rychlostí, zatím jen tušených v částicích, zvaných tachyony. I o tom již existuje rozsáhlá literatura (Feynmanovy diagramy atp.), nelze však zacházet do podrobností.
 
-  
+</section>
+
+<section>
 
 ![038.jpg](./resources/038_fmt.jpeg)
 
 Červí díra snad může netušeným způsobem zkrátit cestu mezi vzdálenými body našeho vesmíru…
 
-  
+</section>
+
+<section>
 
 ![039.jpg](./resources/039_fmt.jpeg)
 
@@ -442,13 +458,17 @@ K podrobnému pochopení myšlenky Borůvkovy a Herčíkovy je nezbytná znalo
 
 Borůvkův a Herčíkův model života spočívá na dvou předpokladech:
 
-  
+</section>
+
+<section>
 
 1\. Všechny organismy jsou čtyřrozměrné útvary v prostoru R4, pronikající naším prostorem R3 a zasahující do něho.
 
 2\. Všechny organismy v našem prostoru R3 jsou výsledkem průniku těchto čtyřrozměrných organismů z prostoru R4 do prostoru R3.
 
-  
+</section>
+
+<section>
 
 Podle této představy je vše živé vlastně čtyřrozměrnou bytostí v prostoru R4, zasahující do našeho prostoru jakýmsi difúzním dějem pomyslných částic z oblasti + do oblasti – Souhrn částic, nacházejících se právě v prostoru R3, vytváří aktuální stav a podobu rostliny, zvířete či člověka. Dynamickou stránkou a podobou této difúze, tohoto postupného pronikání, je zrození, růst, stárnutí a zánik. V místech průniku v prostoru R3 dochází ovšem k interakci čtyřrozměrné bytosti s atomy a molekulami „našeho“ světa. (Uvozovky proto, že i možné světy R4 i vícedimenzionální jsou stejně „naším“ světem jako prostor R3; nejsme však schopni názorně si je představovat, snad proto, že se náš mozek vyvinul v konfrontaci s výhradně „trojrozměrnou“ problematikou, zprostředkovanou smysly. Atomární děje, odehrávající se patrně ve vícerozměrných prostorech, nejsou a nikdy nebyly v oblasti našich bezprostředních zkušeností.) Prostor R3 působí zpětně na čtyřrozměrný organismus, který se tím pozměňuje. Sama představa pohybujících se (difundujících) částic čtyřrozměrného organismu vnáší do myšlenkového modelu čas jako pátou dimenzi.
 
@@ -491,3 +511,5 @@ Je zřejmé, že toto dilema úzce souvisí s problémem postavení člověka v
 … Ať se již ukáže kterýkoli z naznačených přístupů jako správný, ani jeden z nich nepřipouští spekulace o existenci nadpřirozených sil jakéhokoli druhu…“ (překlad Z. Pokorný).
 
 Není třeba k této kapitole dokládat víc.
+
+</section>

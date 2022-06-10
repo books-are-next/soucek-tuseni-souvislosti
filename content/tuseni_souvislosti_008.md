@@ -3,6 +3,8 @@ title: "PROUTEK CÍSAŘE YÜ A\_DRAČÍ ŽÍLY\_"
 contentType: prose
 ---
 
+<section>
+
 > … nedovolili mi používat ten proutek, přinutivše mne napřed zříci se jakékoli smlouvy s ďáblem, chtěli, abych připevnil kousek posvěceného vosku na konec svého proutku a při otáčení proutku abych pronesl zaklínání ďábla.
 
 GASPAR SCHOTT, 1659
@@ -13,15 +15,21 @@ GASPAR SCHOTT, 1659
 
 N. N. SEMJONOV, 1951
 
+</section>
 
 
-  
+
+<section>
 
 ![013.jpg](./resources/013_fmt.jpeg)
 
 Terasa v Baalbeku (foto: Zdenko Feyfar)
 
+</section>
 
+
+
+<section>
 
 Proutkařství je poprvé v evropské literatuře zaznamenáno u Římana Plinia Staršího (23–79 n. l.), pak prochází souvisle dějinami s občasnými peripetiemi, jakou bylo například odsouzení manželů Martiny de Borterod a důlního inspektora Jeana de Chaseteleta, barona z Bosseaulley, za zřejmě ďábelské objevení sto padesáti ložisek zlata, stříbra, mědi, olova, zinku, antimonu, železa atd. pomocí proutku, do Bastily. Stalo se to roku 1632 na rozkaz krále Ludvíka XIII., avšak spory o proutkařství pokračují vesele dodnes, právě tak jako proutkaření samo. Zájmem o ně sj neposloužil ani chemik J. R. Glauber (1604–1668), ani opat Vallemont, který na rozhraní 17\. a 18\. století vydal knihu _Okultní fyzika neboli traktát o kouzelném proutku_ a dozvěděl se od pátera Lebruna, že proutkařství a jeho úspěchy nespočívají v elektrických či magnetických jevech, jak se domníval, ale v díle rukou ďáblových. Mnich Menestrier toto mínění vědecky podpořil: příčinou pohybu proutku musí být nějaký duch, a protože tímto duchem není ani bůh, ani andělé, protože by nás na to upozornilo Písmo svaté, znamená to, že je dílem rukou satanových. A bylo to.
 
@@ -79,10 +87,16 @@ Je to podivné a trochu se to podobá nálezu náramkových hodinek na zápěst
 
 Nepodařilo se mi je, jak vidíte, potlačit ani při setkání s panem císařem Yü a jeho kouzelným proutkem tvaru ladičky.
 
+</section>
 
+
+
+<section>
 
 > Nesrovnalosti v dálné minulosti lidstva mají ovšem celou řadu možných vysvětlení, tzv. „normálních“, odvoditelných od stávajících teorií i hypotéz, i vysvětlení mimořádná, existující mimo dosud uznávané názory, nebo dokonce v přímém rozporu s nimi.
 
 > Tyto názory procházejí pravou křížovou cestou od posměchu a obecného zneuznání k první rozhodující etapě – vážné a dobře argumenty podložené diskusi. Jednou z takových „prokletých“ teorií je představa dávných civilizací schopných – například – objevit a předat dar virgule. O těchto civilizacích jsme se již dosti rozsáhle zmínili v Tušení stínu a vrátíme se k nim, dovolí-li to autorovi neúprosný čas, v Tušení světla. Tušení souvislosti chce několika dalšími kapitolami argumentovat jaksi v doplňkovém směru: existovaly-li dnes v nepaměti zasuté civilizace, musely existovat i katastrofy, kataklyzmata, připouštěná Cuvierem a dalšími vědci, která je zničila.
 
 > Stěží nalezneme o těchto kataklyzmatech přímá, nebo do­konce písemná svědectví, ačkoli i těmi se dnes už nepřehledná atlantologická a atlantomanická literatura přímo hemží. Daleko spíše bychom se měli poohlédnout po svědectvích nepřímých. Jedno z nich – podle autorova názoru – poskytují mamuti.
+
+</section>
