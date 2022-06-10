@@ -3,6 +3,8 @@ title: "HROZBA MAGNETICKÉHO POLE\_"
 contentType: prose
 ---
 
+<section>
+
 > Člověk už dříve jednal z nevědomosti: nyní si nevědomost vyžadovala vysokou daň. Van Allenovy pásy, prstencovitá pole záření kolem zeměkoule, byly jadernými výbuchy mocně aktivovány. Radiační pásy počaly pulsovat, stahovat se a opět roztahovat. Viditelný efekt těchto poruch byl pramalý a omezoval se zejména na efektní polární záře, viditelné až v severní Africe. Účinky pro život na Zemi byly daleko trvalejší. Biosféra byla skropena dvěma krátkými, ale řádnými sprškami tvrdého záření. Dlouhodobé výsledky těchto vysokých dávek záření nebylo lze dosud, sotva rok po události, předpovědět. Avšak bezprostřední výsledky byly zřetelné ažaž. Většina obyvatelstva Země dočasně onemocněla příznaky nemoci, podobné chřipce a spojené s dávením. Děti utrpěly nejvíce. Mnohé – jako Frank – zemřely, jiné pozbyly vlasy nebo nehty. Většina těhotných žen potratila nebo porodila zrůdy. Zvířata, zejména žijící pod širým nebem, trpěla stejně. Zprávy z afrických rezervací hlásily, že velká zvířata byla těžce postižena. Jen polární tur pižmový a plachý sob netrpěli, jak se zdálo, žádné škody. Vysoké procento – odborníci mluvili o 85 % – domácích koček a psů onemocnělo rakovinou a prašivinou a muselo být utraceno.
 
 > To všechno byla lekce, kterou jsme se měli naučit už dávno, pomyslel si Artur. Nikdy nevěřit bandě všivých politiků, že obstarají myšlení za nás. Měli mít alespoň dost rozumu, aby své prokleté bomby odpálili na Měsíci…
@@ -17,7 +19,11 @@ V. I. VERNADSKIJ: BIOSFÉRA, 1929
 
 ALBERT EINSTEIN
 
+</section>
 
+
+
+<section>
 
 Ne – van Allenovy pásy nevzplanou, alespoň to podle všech fyzikálních předpokladů neočekáváme. Přesto však projevil Brian W. Aldiss slušnou dávku až děsivé jasnozřivosti a naznačil jednu z možností sebezničení lidstva jemnějším a důvtipnějším způsobem než vulgárním kobercem atomových a termojaderných bomb: porušením magnetického pole, magnetosféry naší planety.
 
@@ -217,9 +223,9 @@ V této kapitole vyjmenované vlivy tedy působí velmi komplexně, zjevně i 
 
 U nás se korelací sluneční aktivity (erupcí) s úmrtími a autonehodami zabývali např. astronomové Valníček a Křivský. Boris Valníček uveřejnil následující tabulku:
 
-  
+</section>
 
-    
+<section>
 
 Klidný den
 
@@ -262,7 +268,9 @@ Dětská úmrtí (plicní)
 
 0,10
 
-  
+</section>
+
+<section>
 
 Souvislost náhlých příhod s chromosférickými erupcemi Slun­ce i s magnetickými bouřemi (a kromě vyjmenovaných např. i moz­kových mrtvic nebo hypertonických krizí) zkoumali i sovětští vědci K. P. Sedov a N. N. Korolev z Irkutska. Zjistili, že se nehody a náhlá úmrtí dostavují současně s magnetickou bouří, schopnou v několika minutách, ba i vteřinách převýšit o dva až pět řádů energetické prahy lidského organismu (N. L. Muzalevskaja z Pulkovské astronomické observatoře A V SSSR), zpožďují se však o 1–2 dny po slunečních erupcích. Kosmické vlivy, tak nepříznivě působící na naši planetu a její obyvatele – jsem přesvědčen, že podobné obtíže postihují i zvířata, ale dosud se, pokud vím, nikdo tímto problémem hlouběji nezabýval – jsou zřejmě zprostředkované indukcí napětí v biosféře. Přímé působení je zatím vzhledem k pohlcování záření a elementárních částic atmosférou popíráno (Boris Valníček).
 
@@ -364,143 +372,183 @@ Uvidíme.
 
 Zatím mohu jen doufat, že tato kapitola pomohla vysvětlit nejen podivnou změnu astrologických aspektů Marsu, ale i některé další otazníky. A ovšem i některé přidala – ale tak už to na světě chodí.
 
+</section>
 
 
-  
+
+<section>
 
 ![016.jpg](./resources/016_fmt.jpeg)
 
 Lebka z Lubaantunu z křišťálu, hmotná 5,3 kg a nazývaná též „lebka smrti“
 
+</section>
 
 
-  
+
+<section>
 
 ![017.jpg](./resources/017_fmt.jpeg)
 
 Rentgenogram obou částí geody, nalezené prý na úpatí hory Coso roku 1961
 
+</section>
 
 
-  
+
+<section>
 
 ![018.jpg](./resources/018_fmt.jpeg)
 
 Čínská zeď není bez konkurence, v neobydlených Andách se skrývá „velká peruánská zeď“, objevená teprve nedávno Johnsonovou výpravou
 
+</section>
 
 
-  
+
+<section>
 
 ![019.jpg](./resources/019_fmt.jpeg)
 
 Lebka 1470, uložená v národním muzeu v Keni, po rekonstrukci a doplnění
 
+</section>
 
 
-  
+
+<section>
 
 ![020.jpg](./resources/020_fmt.jpeg)
 
 Soška muže z Hohlensteinu, stará nejméně 32 000 let
 
+</section>
 
 
-  
+
+<section>
 
 ![021.jpg](./resources/021_fmt.jpeg)
 
 Jedna z monumentálních plastik, objevených v Lepenském Viru
 
+</section>
 
 
-  
+
+<section>
 
 ![022.jpg](./resources/022_fmt.jpeg)
 
 Nahoře mírně zmáčknutý hliněný model mozku, dole křemenná hrouda, nalezená N. A. Grigorovičem
 
+</section>
 
 
-  
+
+<section>
 
 ![023.jpg](./resources/023_fmt.jpeg)
 
-  
+</section>
+
+<section>
 
 ![024.jpg](./resources/024_fmt.jpeg)
 
 Krajina na Marsu, jak ji fotografoval Viking I, připomíná ráz některých pozemských pouští. O jejím oživení v minulosti nemůžeme tedy podle fotografie říci nic určitého
 
+</section>
 
 
-  
+
+<section>
 
 ![025.jpg](./resources/025_fmt.jpeg)
 
-  
+</section>
+
+<section>
 
 ![026.jpg](./resources/026_fmt.jpeg)
 
 Dvě ukázky tzv. pseudometeoritů – první byl prý vyhozen roku 1963 u italské Laigueglii z létajícího talíře, druhý, korálově rudý, viděl dopadnout Američan Donald Bruce
 
+</section>
 
 
-  
+
+<section>
 
 ![027.jpg](./resources/027_fmt.jpeg)
 
 Tak vypadají odkryté zbytky mamutů u říčky Berelech
 
+</section>
 
 
-  
+
+<section>
 
 ![028.jpg](./resources/028_fmt.jpeg)
 
 Celkový pohled na nakupení mamutích kostí u Berelechu
 
+</section>
 
 
-  
+
+<section>
 
 ![029.jpg](./resources/029_fmt.jpeg)
 
 Bombardovací a torpédonosný Grumman – Avenger, vybavený samočinně se uvolňujícím a nafukujícím záchranným člunem, do něhož je posádka cvičena ve třiceti vteřinách nastoupit. Letoun sám po havárii zůstane na hladině nejméně trojnásobek této doby
 
+</section>
 
 
-  
+
+<section>
 
 ![030.jpg](./resources/030_fmt.jpeg)
 
 Marine Sulphur Queen, dlouhá 129 metrů, zmizela 2. února 1963 i s 39 muži posádky
 
+</section>
 
 
-  
+
+<section>
 
 ![031.jpg](./resources/031_fmt.jpeg)
 
 Tři ukázky „černých kamenů z Icy“. Na prvních dvou je podle mínění majitele vynětí a transplantace lidského srdce, dokonce s velmi moderní, tzv. intubační narkózou, na třetím rodeo na brontosauru
 
+</section>
 
 
-  
+
+<section>
 
 ![032.jpg](./resources/032_fmt.jpeg)
 
 Pečeť z Karanova[1](./resources/undefined)
 
+</section>
 
 
-  
+
+<section>
 
 ![033.jpg](./resources/033_fmt.jpeg)
 
 Pečeť ze Sitagroje
 
+</section>
 
+
+
+<section>
 
 > Věříme-li v existenci života ve vesmíru i mimo naši Zemi (a těžko je v ni nevěřit nejen z velmi žádoucí skromnosti tváří v tvář triliardám hvězd podobných Slunci, ale i vzhledem ke zřejmé zákonité tendenci hmoty zjemňovat svůj pohyb a strukturu až k autoregulujícím se formám, schopným bezchybné reprodukce a úspěšně čelícím entropii, jinými slovy životu), věříme-li dokonce v jakousi jeho ubikvitu a obecnou rozprostřenost, musíme si dříve nebo později položit otázku, která padla již v Tušení stínu. Proč zde ještě nejsou?
 
@@ -511,3 +559,5 @@ Pečeť ze Sitagroje
 > Ani u filozofů (s výjimkou nejzarputilejších kreacionistů, odmítajících i novotomismus) nenalezne podporu a pochopení. Já sám proti jeho stanovisku, které polemicky rozviklal již polský spisovatel a futurolog Lem, protestuji z hlediska ontologie vesmíru a člověka, povolaného stát se spolu s dalšími civilizacemi dialektickým vývojem hmoty a zjemňováním jejího pohybu kosmickým činitelem, jsou-li kosmické zákonitosti všeho druhu objektivní a není-li nás obklopující vesmír cirkusem. O tom ale až jindy a jinde. Otázku „Proč zde ještě nejsou?“ můžeme zkrátka položit s klidným svědomím. Ba ještě více. Podle mého mínění je stejně oprávněná otázka ještě trochu odvážnější: A nejsou tu opravdu?
 
 [1](./resources/undefined) Srov. využití obrázku v _Tušení stínu_. _Pozn. red._
+
+</section>

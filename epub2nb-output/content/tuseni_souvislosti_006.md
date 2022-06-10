@@ -3,6 +3,8 @@ title: POSUNOVÁNÍ HRANIC
 contentType: prose
 ---
 
+<section>
+
 > Dějiny člowěčenstva jsau Próteus; kterýž rozličným jednotliwcům rozličně, ano i jedné a též mysli w rozmanitých jewí se podobách. Potřebí k tomu zwláštní jeho přízně, aby na otázku: „Co bylo a jest?“ poněkud zewrubně odpověděl; na otázku: „Co bude?“ obyčejně mlčíwá, aneb jen nejobecnějších odpowědí udílí.
 
 JAN SLAWOMÍR TOMÍČEK:  
@@ -20,7 +22,11 @@ PRWNÍHO POKOLENÍ LIDSKÉHO, 1846
 
 BRUNO TRAVEN: STVOŘENÍ SLUNCE
 
+</section>
 
+
+
+<section>
 
 Posunování mezníků v čase i prostoru, avšak především v čase, se stalo jednou z charakteristických známek poznání a věd naší doby. Někdy je prováděno nenápadně, skrytě, jaksi úkradkem, jindy za hlučného sběhu vědců (obrazně řečeno) a nadšené účasti veřejnosti. Platí to i o vzniku světa, což v tomto případě znamená vesmíru.
 
@@ -96,7 +102,9 @@ Z celého košatého stromu vývoje života nás – jak jinak? – zajímá p
 
 Po prolomení bariéry předsudků byl vznik člověka kladen do doby vzdálené desetitisíce let. Statisíce let již byly odvážným a vědeckou pověst ohrožujícím odhadem. A celý milión? Ne – to už je pouhá fantazie…
 
-  
+</section>
+
+<section>
 
 Mnoho antropologů se ještě dnes domnívá, že nejstarším známým článkem ve vývoji člověka a jeho přímým předchůdcem je Homo erectus, člověk vzpřímený, druh, příslušející do doby asi před miliónem let a s obsahem mozkovny 750 až 1100 cm3. Australopithecus („jižní opice“), objevený roku 1924 profesorem johannesburské univerzity R. A. Dartem a s obsahem mozkovny asi 500 cm3, žijící před (necelými) třemi milióny let na afrických bezlesých stepích, a tedy víceméně donucený alespoň občas a z bezpečnostních důvodů ke vzpřímené poloze těla, je pro malý obsah mozkovny počítán mezi předlidi a zároveň druh, který se velmi časně odštěpil z kmene, jehož posledním výhonkem je Homo sapiens sapiens. Nepatří tedy mezi naše pradědečky a není ani hledaným „chybějícím“ (dnes už patrně nalezeným) článkem, společným a spojujícím hominidy s opicemi, ačkoli prokazatelně používal nástrojů, které si zhruba a neuměle opracovával.
 
@@ -122,7 +130,9 @@ Prostor minulosti lidstva se nám tedy znamenitě rozšířil a navíc nové n�
 
 Či snad přece?
 
-  
+</section>
+
+<section>
 
 Mezi sporné, avšak nesmírně zajímavé indicie o nejstarším člověku a jeho vývoji patří žlutohnědá křemenná hrouda, nalezená roku 1925 v lomu cihelny u Odincova poblíže Moskvy anatomem N. A. Grigo­rovičem, která se velikostí, tvarem i všemi povrchovými detaily podobá jak vejce vejci lidskému mozku, včetně rozdělení na hemisféry, rýhování atd. Lehkou deformaci napodobil Grigorovič mírným zmáčknutím dosud nezatvrdlého sádrového odlitku skutečného lidského mozku – shoda pak byla téměř naprostá.
 
@@ -146,23 +156,31 @@ Může se mozek změnit v kamenný valoun? Nechci to popírat. Máme dostatek a
 
 Ale co když tomu bylo docela jinak? Co když jsme nalezli stopy dávných a pradávných návštěv nepozemských bytostí zjevně humanoidních a anatomicky velmi blízkých člověku? V _Tušení stínu_ jsem se pokoušel co nejstřízlivěji doložit pravděpodobnost takového tvora, vynořujícího se ze spleti exobiologických úvah, konfrontovaných s výsledkem „pozemské“ vědy. Lze si snad představit iracionální nebo racionální rituál nebo racionální posmrtné opatření, při kterém byl bytosti X vyňat a snad i na místě impregnován mozek, ať už z jakýchkoli důvodů – např. k pozdějšímu zjištění příčiny smrti na mateřské planetě. Naši kosmonauté na cizích planetách budou patrně v případě náhlého úmrtí druha nějakou místní chorobou, zjevně napadající centrální nervový systém, činit totéž, už kvůli nepříjemným otázkám vyšetřující komise. Lze si představit, že náhlá mimořádná situace, na něž asi nebyly prvohory se svým bouřlivým vulkanismem a mladistvě živou tektonikou chudé, mohla způsobit ztracení preparátu nebo jeho ponechání na místě. Snad by nepozemšťan jako deus ex machina pomohl vysvětlit i stopy v kamení, nacházené ostatně na různých místech světa, kde bychom jejich pracné a anatomicky i technicky náročné vytesávání rozhodně neočekávali. V pohádkách černochů Pobřeží slonoviny, obývajících oblast mezi řekami Nzi a Bandama, vystupuje bůh Anangama, který sestoupil z nebes na Zem, aby naučil lidi všelijakým dovednostem. Jako trvalé znamení svého dočasného hostování vtiskl nedaleko Sakassi svou levou nohu do skály. Je tam dodnes, velikostí i tvarem přesná. A takových pohádek je velice, velice mnoho…
 
-  
+</section>
+
+<section>
 
 Ke kamennému valounu, podobnému mozku, nalezenému N. A. Grigo­rovičem, mám ostatně pěkný protějšek: jednu z domorodých kreseb z jihozápadní Afriky, jak je nalezli a roku 1974 publikovali manželé Ernst a Anneliese Scherzovi. Nazvali ji „abstraktní kresba“, ačkoli se nepochybně podobá mozku a zřetelně zachycuje i jeho nejmarkantnější dělení závity a laloky.
 
-  
+</section>
+
+<section>
 
 ![004.jpg](./resources/004_fmt.jpeg)
 
 Petroglyf z jihozápadní Afriky, nazvaný manželi Scherzovými „abstrakce“, se nápadně podobá kresbě lidského mozku
 
-  
+</section>
+
+<section>
 
 ![005.jpg](./resources/005_fmt.jpeg)
 
 Z blízké oblasti pochází skalní kresba „lovci pod ochrannou stříškou, na níž jsou odloženy jejich toulce“. Romantikové nepotřebují mnoho fantazie, aby tento obraz chápali spíše jako rozfázovaný start létajícího talíře, pozorovaný skrytými obyvateli
 
-  
+</section>
+
+<section>
 
 ![006.jpg](./resources/006_fmt.jpeg)
 
@@ -248,7 +266,9 @@ Co tedy k tomu říci?
 
 Dovoluji si navrhnout poněkud odvážnou pracovní domněnku:
 
-  
+</section>
+
+<section>
 
 1\. Pečetě jsou pravé, staré, stářím odpovídají vrstvám, v nichž byly nalezeny. Nejde o podvrh a falzifikáty.
 
@@ -256,7 +276,9 @@ Dovoluji si navrhnout poněkud odvážnou pracovní domněnku:
 
 3\. Znaky na destičkách nejsou písmem, ale pokusem o napodobení písma, jde tedy o tzv. nápisy anepigrafické, nepísemné.
 
-  
+</section>
+
+<section>
 
 Jak to všechno spojit dohromady?
 
@@ -344,7 +366,9 @@ Vraťme se však k neznámému lovci, současníku mamutů, jeskynních medvěd
 
 Nevíme o něm mnoho – jen to, že byl vyznavačem a snad i jedním ze zakladatelů či hlasatelů lunárního kultu, uctívání Měsíce, daleko staršího než kult solární, sluneční. Luna jako dárce života a záchranná lampa temných nocí byla uctívána především v horkých a teplých krajích – beduínské kmeny dodnes personifikují Slunce vyschlou, hubenou a nebezpečnou ženou, obrazem naší polednice. Podobný vztah ke Slunci měly i nejstarší dnes známé peruánské kultury Močiků a Čimuánsů, žijící na vyprahlém břehu Pacifiku při ústích řek. A pokus faraóna Amenhotepa IV., který se přejmenoval na Achnatona, tj. Příjemného bohu Atonovi (1387–1366 př. n. l.) o zavedení výsadního kultu Slunce pro celý Egypt, ztroskotal nejen díky politickému radikalismu a neobratné taktice, ale i díky vše­obecnému odporu lidu, uctívajícího daleko spíše boha Luny Chonse, syna nejvyššího boha Amona a bohyně Mut, než krutého slunečního boha Atona. S lunárním kultem je spojováno pohřbívání tváří k západu, kde se rodí obnovený srpeček Měsíce, i mýty o Západní zemi znovuvzkříšení mrtvých, platné mj. v Egyptě. Náš kalendář je kompromisem kalendáře slunečního a lunárního – rok je sluneční, ale dělí se na měsíce. Menstruace byla všemi prehistorickými kulturami logicky připisována působení Luny a podle jejích fází si ženy, jako dodnes na ostrově Samoa i jinde, pamatovaly cyklus svých „měsíčků“. Jestliže se očekávaná menstruace nedostavila, zbývalo k porodu deset lunací (W. v. Bulow). Toto počítání prenatálního věku dítěte pak pokračovalo i po porodu – odtud patrně pramení neuvěřitelné údaje o věku patriarchů v rozličných náboženských spisech, nejen v bibli (Metuzalém aj.). Jestliže uvedená léta přepočítáme přibližně na měsíce, je výsledek obvykle v rámci biologických možností člověka. Jestliže bychom toto zaměnění slunečních let s měsíci připustili např. i pro Platónovy údaje o dataci Atlantidy mudrcem Solónem (asi 638 až 559 př. n. l.), došli bychom opravou textů dialogů Kritiás a Timaios k rozkvětu Atlantidy asi kolem roku 1300 př. n. l., což dobře souhlasí jednak s obdobím bojů starousedlíků východního Středomoří s dosud ne zcela uspokojivě identifikovanými „námořskými národy“ a později těchto „námořských národů“ s Libyjci, jednak s datací sovětského atlantologa V. Zenkoviče, o níž píšeme na jiném místě – pokud ovšem není Platónovo vyprávění o bojích Atéňanů s Atlanty jen vlasteneckou fantazií. Tuto opravu doporučuje např. i německý archeolog Borchardt, kladoucí ovšem Atlantidu do severní Afriky k Malé Syrtě. Jeho mínění podpírá podivná Hesiodova poznámka v Básni rolnické, na niž rovněž upozorňuje A. Dittrich:
 
-  
+</section>
+
+<section>
 
 > Dítě až do sta let drželo se v blízkosti matky,  
 > oddáno dětinským hrám a nevyšlo z rodného domu.  
@@ -375,9 +399,9 @@ Luna, obnovující se v novu, stojí patrně na počátku prastarých úvah a 
 
 Zjištění racionálního zájmu o Měsíc a jeho fáze není tedy jen důkazem povznesení mysli člověka k hvězdnému nebi. Do našich úvah se dostalo jen proto, že signalizuje celou řadu souběžných spekulací (o znovuzrození, plynutí času, předvídatelnosti budoucnosti), kultů (iniciace, směrování hrobů) i dovedností (pastevectví), snad i rozšíření číselné řady za hranici dosud mezní cifry pět či deset. Vždyť z přepočítání plyne, že přibližně je
 
-  
+</section>
 
- 
+<section>
 
 1 rok
 
@@ -403,7 +427,9 @@ Zjištění racionálního zájmu o Měsíc a jeho fáze není tedy jen důkaz
 
 235 lunací atd.
 
-  
+</section>
+
+<section>
 
 Kdysi byla prostá enumerace, počítání členů množiny, nejvyšší matematikou. Prolomení hranice cifry 5 či 10 bylo slavným překročením Rubikonu, v důsledcích otevírajícím cestu k nejsložitější problematice soudobé matematiky.
 
@@ -429,19 +455,25 @@ Stará Arménie zřejmě patřila astronomicky k velmi aktivním oblastem dávn
 
 Svědčí o tom i nález kamenných „hvězdných map“ v Gegamských a Varděnických horách, popsaných B. E. Tumanjanem (_Priroda_ 3/1972): na hlazené ploše kamene jsou velmi věrně a přesně zpodobeny (ve tvaru větších či menších důlků, označujících přibližnou magnitudu) hvězdy souhvězdí Lva, Štíra, Střelce, Orla a Delfína, mělkými vrypy je znázorněna část Mléčné dráhy a jednu z výrazných čar interpretují sovětští archeoastronomové jako záznam průletu jasného bolidu. Pro existenci dobře stabilizovaného lunárního kalendáře svědčí kruhy, dělené 29 delšími a jednou kratší úsečkou, i další petroglyfy, dokončující rozdělení roku na dvanáct měsíců (A. A. Martirosjan, A. P. Israeljan, 1971). V nekropoli Lšačenu, odkryté roku 1967 archeologem A. Mnacakanjanem, byl nalezen jako hrobní dar bronzový předmět se znázorněním Země a Slunce a mezi nimi Merkura, Venuše, Marsu, Jupitera a Saturna spolu s Měsícem, považovaným rovněž za planetu, vesměs rozmístěné kolem rombických sfér, patrně ohnivých, vzdušných a vodních, redukovaných později antikou na „nebeský oheň“. Země je symbolizována vnitřním znakem, obklopeným dvojitým mezikružím, což by mohlo v tomto plošném zpodobení, odlévaném do jediné negativní matrice, znamenat představu Země jako okrouhlé desky nebo dokonce koule. Pro druhou, odvážnější možnost svědčí i některé astronomické petroglyfy, objevené v Gegamských horách. Na jednom z nich je cosi, co nelze při nejlepší vůli interpretovat jinak než jako představu Země s kvadranty a zpodobenými protinožci – myslí si to i S. Petrosjan, který o této skalní malbě přinesl zprávu. Jako další alternativa mne napadl jakýsi kolotoč nebo mlýn, pohybovaný párem zvířat (podivný znak na dolním okraji kresby) – ale raději bych setrval u romantičtějšího vysvětlení, které se mi zdá pravděpodobnější.
 
-  
+</section>
+
+<section>
 
 ![007.jpg](./resources/007_fmt.jpeg)
 
 Nevíme ani přibližně, co chtěl vyjádřit např. tvůrce petroglyfu v Kazachstánu, když kolem roku 1000 př. n. l. vyryl postavu s hlavou Slunce, obklopeného dvanácti hvězdami
 
-  
+</section>
+
+<section>
 
 ![008.jpg](./resources/008_fmt.jpeg)
 
 Bronzový objekt z nekropole v Lšačenu představuje čtyři tisíce let starý model sluneční soustavy se Zemí, Sluncem, Měsícem a pěti neteleskopickými planetami
 
-  
+</section>
+
+<section>
 
 ![009.jpg](./resources/009_fmt.jpeg)
 
@@ -519,7 +551,9 @@ Zajímavým zoologickým otazníkem je nepřítomnost korálů a jiných mořsk
 
 Pro nás je nejzajímavější otázka datování bahamské soustavy zdí. Řešili ji postupně odborníci univerzity v Miami, Juárezova muzea v Mexiku, pařížského Musée de l’Homme, laboratoře pro dynamickou geologii při Sorbonně a konečně účastníci Mezinárodního kongresu pro podmořskou archeologii v Saint Raphaelu. Dohodli Se na několika definitivních závěrech:
 
-  
+</section>
+
+<section>
 
 – nález u Androsu není přirozeným, přírodním útvarem;
 
@@ -531,7 +565,9 @@ Pro nás je nejzajímavější otázka datování bahamské soustavy zdí. Řeš
 
 – Great Bank, podmořský útvar, vytvářející podklad stavby, byl zaplaven v 6.–5. tisíciletí př. n. l., stavby tedy musely být zbudovány v 7. nebo 8. tisíciletí př. n. l., což bylo potvrzeno i radiokarbonovou datací vzorků rašeliny z různých hloubek v okolí stavby a extrapolací výsledků. Nejpravděpodobnější doba vzniku je podle shodného mínění 8. tisíciletí před naším letopočtem.
 
-  
+</section>
+
+<section>
 
 Je pozoruhodné, že se toto datování výborně překrývá např. s před­pokládaným vznikem mohutné pyramidy Cuicuilco na jihovýchod od Mexico City, pokryté lávou sopek Cerro Xitle, které naposledy zahovořily před 8000 lety. Shoduje se i s dalšími podobnými stavbami v Mexiku, Kolumbii, Brazílii a Peru, pocházejícími zřejmě z hluboko předklasické doby.
 
@@ -555,7 +591,9 @@ Adamem vymyšlené důmyslné zařízení, jen u vrátků obsluhované 512 muž
 
 Zkrátka vysvětlení, nabízená J. P. Adamem v dobré víře a s chvályhodným úmyslem nápravy chorobných romantiků, mne neuspokojila. Autorovo jistě rozsáhlé a důkladné vzdělání v technických vědách není doprovázeno stejně poučenou znalostí dějin období, v nichž pojednávané stavby vznikaly. Bohužel.
 
-  
+</section>
+
+<section>
 
 ![010.jpg](./resources/010_fmt.jpeg)
 
@@ -579,7 +617,9 @@ Je zhotovena (úmyslně používám neutrální výraz) z velikého krystalu ho
 
 Lebkou se šest let zabýval vynikající muzejní restaurátor Frank Dorland, z profesionálního zájmu obdivující dokonalost provedení: dolní čelist je např. pohyblivá a jako u člověka uložená kloubními hlavicemi v kloubních jamkách. Podle drobnohledného zkoumání byla lebka zhruba vytesána z krystalu bez použití kovových nástrojů (měď by nebyla schopna křišťál rýt, řezat nebo jinak opracovávat) a pak vybroušena směsí křemenného písku a jakéhosi brusného prášku, nanášeného jako kaše na povrch křišťálu, zcela analogicky dnešnímu postupu broušení a leštění např. skleněných astronomických zrcadel, ovšem bez karborundu a patrně i bez všeobecně používaných kysličníků železa ve formě tzv. rouge. Celá práce trvala při nasazení jednoho tvůrce – a více jich současně na poměrně nevelkém objektu pracovat nemohlo – podle Dorlanda… tři sta let. Tento odhad označuje za spodní hranici.
 
-  
+</section>
+
+<section>
 
 ![011.jpg](./resources/011_fmt.jpeg)
 
@@ -809,7 +849,9 @@ Všechno nedobré je i k něčemu dobrému: výtěžky dnešní psychologie a�
 
 Od budoucnosti jsme se jakousi smyčkou dostali opět ke vchodům do paleolitických jeskyň s jejich obyvateli, k pradávným táborovým ohňům a snad i – kdo ví? – ke stezkám, vedoucím do oblasti dávných a ztracených civilizací, využívajících klimatické oscilace k horečnému rozvoji, jako by tušily nad hlavou Damoklův meč opět se blížících ledových dob nebo ničivých kosmických kataklyzmat. Při jejich hledání je nutné vydat se za hranice, donedávna platící za nepřekročitelné. Tato kapitola měla dokázat, že mezníky nebyly postaveny jednou provždy. Taková představa by byla stejně pošetilá a nevědecká jako motivace ředitele patentního ústavu ve Washingtonu roku 1832, který v žádosti o penzionování prohlásil: „Všechno už bylo vynalezeno a nic nového nelze objevit.“ A co více: leckdy se domníváme, že jsme opustili území poznání, možností, vědy a zdravého rozumu, abychom pak s radostí zjistili, že se dosud nacházíme v jejich vnitrozemí a že hranice jsou v nedohlednu, za devaterými horami a řekami.
 
-  
+</section>
+
+<section>
 
 ![012.jpg](./resources/012_fmt.jpeg)
 
@@ -818,3 +860,5 @@ Bronzový Zeus, údajně nejkrásnější antická socha. Nalezeno v moři u ost
 > Posunování hranic do stále vzdálenější minulosti nás přivádí i ke zjištění některých schopností a dovedností, které se vynořily jakoby z ničeho, rázem, a ke všemu bez zjevných kauzálních důvodů.
 
 > Mohl jsem zvolit celou řadu příkladů. Vybral jsem poměrně nepříliš senzační případ proutku Jeho Veličenstva pana císaře Yü i proto, že není rozsáhlý, a nerozšíří proto kapitolu o posunování hranic, kam by vlastně patřil.
+
+</section>

@@ -3,6 +3,8 @@ title: "METEORITY PODIVNÉ, ZNEUZNANÉ A\_PODNĚTNÉ\_"
 contentType: prose
 ---
 
+<section>
+
 > Jedním z nejsmutnějších závěrů, plynoucích z dějin vědy, jsou dlouhá časová zpoždění mezi myšlenkou a jejím uplatněním.
 
 JOHN D. BERNAL
@@ -11,7 +13,11 @@ JOHN D. BERNAL
 
 J. B. S. HALDANE
 
+</section>
 
+
+
+<section>
 
 Pro lovce nespočetných a málokdy zcela průkazných indicií z dávné minulosti lidstva je vysloveně odstrašujícím případem a varováním tunguzská katastrofa, čtenářům jistě dobře známá. Pro upamatování: dne 30. června 1908 v 07 hodin 17 minut místního času prolétlo nad Sibiří žhavé těleso, popisované některými svědky jako „trubka“ nebo „kláda“, dopadlo o jedenáct vteřin později do oblasti severně od faktorie Vanovary v povodí Kamenné Tunguzky (60° 55’ s. š., 101° 57’ v. d.) způsobilo značné zpustošení širého okolí. Zájemci naleznou podrobnosti v odborném nebo populárně vědeckém tisku.
 
@@ -25,7 +31,9 @@ To je teorie – podle Goetha šedivá, zatímco žití strom se prý zelená. 
 
 Redakce známého sovětského časopisu _Priroda_ se nedávno rozhodla sestavit přehled hypotéz, který zkráceně a po úpravě cituji.
 
-  
+</section>
+
+<section>
 
 První skupinu tvoří hypotézy, předpokládající působení inteligentních bytostí:
 
@@ -57,7 +65,9 @@ První skupinu tvoří hypotézy, předpokládající působení inteligentních
 
 14\. Havárie manévrujícího kosmoletu (1967)
 
-  
+</section>
+
+<section>
 
 Hypotézy kolem antihmoty:
 
@@ -73,7 +83,9 @@ Hypotézy kolem antihmoty:
 
 6\. Přeměna času, prostoru atd. v energii (1969)
 
-  
+</section>
+
+<section>
 
 Náboženské hypotézy:
 
@@ -83,7 +95,9 @@ Náboženské hypotézy:
 
 3\. Opakování katastrofy Sodomy a Gomory (1950)
 
-  
+</section>
+
+<section>
 
 Hypotézy geofyzikální:
 
@@ -107,7 +121,9 @@ Hypotézy geofyzikální:
 
 10\. Výbuch bahenního plynu, zapáleného bleskem (1967)
 
-  
+</section>
+
+<section>
 
 Meteoritické hypotézy:
 
@@ -165,7 +181,9 @@ Meteoritické hypotézy:
 
 27\. Meteor rozerván při průletu atmosférou tepelným napětím (1967)
 
-  
+</section>
+
+<section>
 
 Kometární hypotézy:
 
@@ -191,7 +209,9 @@ Kometární hypotézy:
 
 11\. Výbuch třaskavého plynu, vzniklého disociací vody v kometě (1966)
 
-  
+</section>
+
+<section>
 
 Syntetické hypotézy:
 
@@ -201,7 +221,9 @@ Syntetické hypotézy:
 
 3\. Kometa z antihmoty, vybuchující v atmosféře (1965)
 
-  
+</section>
+
+<section>
 
 Skromně podotýkám, že jsem bez zvláštní námahy dodal další domněnku, tuším již sedmdesátou pátou: dopad částí jedné z přirozených a dočasných družic Země, jež dosáhla kritické, tzv. Rocheovy meze, kdy slapové síly naší planety rozrušily její soudržnost.
 
@@ -373,7 +395,9 @@ Také zpráva, vyslaná ze Země do vesmíru z obřího třistametrového radio
 
 Velmi podobně, stejně důvtipně (a pro laika stejně kabalisticky nesrozumitelně) šifrované poselství zpožďovaných „ozvěn“ v Lunanově podání zní:
 
-  
+</section>
+
+<section>
 
 > Odtud začněte číst.
 
@@ -395,7 +419,9 @@ Velmi podobně, stejně důvtipně (a pro laika stejně kabalisticky nesrozumite
 
 > Odeslané mapy vám určují pozici Arkturu.
 
-  
+</section>
+
+<section>
 
 Jak je vidět, máme adresu.
 
@@ -405,7 +431,9 @@ Podle názoru převážné většiny odborníků souvisí pravděpodobně tyto z
 
 Mnozí astronomové a spojovací odborníci považují proto tato librační centra a odrazy od nich za uspokojivé a prozatím vyčerpávající vysvětlení zpožďování rádiových ozvěn. Snad je tomu opravdu tak, ale pak zůstává záhadou proměnlivost odrážejících útvarů, zjevná ze změny délky zpoždění, dosud nevyjasněné změny v podmínkách odrazu v krátkém časovém intervalu, kdy se podle našich vědomostí nezměnily ionosférické a jiné podmínky přenosu signálů atd. Snad do hry vstupují jiné přirozené příčiny.
 
-  
+</section>
+
+<section>
 
 ![034.jpg](./resources/034_fmt.jpeg)
 
@@ -443,10 +471,16 @@ Kdyby tomu tak bylo, lze očekávat, že každá technická civilizace bude hled
 
 Jak je vidět, dostali jsme se od tunguzského tělesa dost daleko. Autor doufá, že ne tak daleko, aby nebyl jasný záměr naznačit potřebu trvalého a opětovného zkoumání všeho, co kolem naší Země létá a co vzbuzuje pochybnosti a otázky jakéhokoli druhu. Možná že tato zvědavost přinese v budoucnosti vytoužené ovoce.
 
+</section>
 
+
+
+<section>
 
 > Je otázkou, jaké štěstí by lidstvu objevení mimozemského života přineslo. Někteří odborníci jsou značně skeptičtí, ne-li přímo pochmurní. Tak přední světový astronom prof. Z. Kopal (narozený 1914 v Litomyšli, od 1937 v USA, od 1951 na Manchesterské univerzitě v Anglii) je přímo studnicí pesimismu: „… je vůbec možné, aby nám kontakt s cizí civilizací… přinesl nějaký prospěch? Druh života, který by byl na mnohem nižší vývojové úrovni než náš vlastní, bychom museli jít hledat sami; a kdybychom jej objevili, zajímal by patrně jen mikrobiology, kteří by jím mohli naplnit své zkumavky. Kdyby se naopak na naši planetu dostaly mimozemské bytosti, jež by byly natolik inteligentní, aby odhalily naši existenci, ocitli bychom se možná ve zkumavkách my sami. Možná že bychom se do nich dostali dříve, než bychom si vůbec uvědomili, co se s námi vlastně děje… Návštěva příslušníků mimozemské civilizace, k níž by po takovém objevu mohlo dojít, by však mohla pro lidstvo velmi snadno znamenat opravdovou katastrofu… Nezvaní návštěvníci by například mohli přenést na naši planetu takové jednobuněčné baktérie, vůči nimž jsou sami imunní, ale jež by mohly přivodit náš rychlý konec. Kdybychom proto někdy z kosmu zachytili signály, jež by byly předzvěstí návštěvy nějakých mimozemských bytostí, nemělo by nás ani napadnout na ně odpovídat. Měli bychom se naopak snažit chovat se tak nenápadně, jak je to jen možné. Kdyby toho bylo zapotřebí, měli bychom dokonce na určitý čas zastavit i provoz našich televizních stanic. I když by nebylo mnohým, z nás příjemné být po určitou dobu bez televize, byla by to malá oběť ve srovnání s osudem pro lidstvo daleko horším.“
 
 ZPRÁVA O VESMÍRU
 
 > Snad je to dobrá rada, ale impulsy pozemských rádiových signálů k blízkým hvězdám jsou už na cestě, právě tak jako vizitka se zpáteční adresou na sondě Pioneer 10. Teplota Země v oblasti metrových vlnových délek dosahuje asi 108 K, což musí případné nepozemšťany, vybavené patřičnými přístroji, přímo trknout. Vyslali jsme rádiové signály, a z vesmíru se snad – kdo ví? – ozvaly programově opožděné ozvěny. Atmosféru opustily první rakety – a objevily se neidentifikované létající předměty, UFO, rojící se jako včely (pokud můžeme alespoň trochu věřit četným pozorováním) kolem atomových střelnic, kde došlo k dalším kosmicky pozorovatelným projevům lidské aktivity a důmyslu. Vypustili jsme družice a kosmické lodi s posádkou – a jejich posádky hlásily, že jsou doprovázeny objekty, které by na onom místě a v onom čase neměly být a nemají tam co dělat (posádky Gemini 4, 5, 6, 10 a dalších pilotovaných lodí). A na Zemi, naší krásné modré planetě, se děje ledacos zajímavého.
+
+</section>
