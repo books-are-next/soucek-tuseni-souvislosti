@@ -21,8 +21,6 @@ ALBERT EINSTEIN
 
 Ne – van Allenovy pásy nevzplanou, alespoň to podle všech fyzikálních předpokladů neočekáváme. Přesto však projevil Brian W. Aldiss slušnou dávku až děsivé jasnozřivosti a naznačil jednu z možností sebezničení lidstva jemnějším a důvtipnějším způsobem než vulgárním kobercem atomových a termojaderných bomb: porušením magnetického pole, magnetosféry naší planety.
 
-  
-
 K umělému porušení magnetosféry, naštěstí nikoli trvalému, již došlo. Mementem pro svět by však měla být skutečnost, že zjištěné výsledky byly pro vědce překvapením a naprosto se vymykaly i nejodvážnějším odhadům. Hrátky s jadernou energií, především s jadernými výbuchy, na základě pouhých extrapolací laboratorních pokusů, by se nemusely vyplatit.
 
 Již po prvních jaderných výbuších ve velké výšce (tři americké jaderné, patrně vodíkové bomby, vypuštěné v rámci projektu Argus, velkorážové sovětské bomby v říjnu 1961) bylo zřejmé, že kromě rozptýlení značného množství lithia ve stratosféře dochází i k výrazným poruchám magnetického pole, hlásícím se polárními zářemi, poruchami rozhlasového příjmu atd. Mnozí vědci varovali před dalšími pokusy tohoto druhu jako nebezpečnými a co do výsledků nepředvídatelnými. Proti generálům se ovšem ani tentokráte neprosadili. Američtí odborníci se shodli na nezbytnosti dalšího pokusu, jenž by měl prokázat nebo vyloučit možnost ovlivnění, resp. úplného vyřazení několika pásů americké radarové obrany umělými polárními zářemi, vzniklými vysokými výbuchy jaderných náloží.
@@ -219,6 +217,8 @@ V této kapitole vyjmenované vlivy tedy působí velmi komplexně, zjevně i 
 
 U nás se korelací sluneční aktivity (erupcí) s úmrtími a autonehodami zabývali např. astronomové Valníček a Křivský. Boris Valníček uveřejnil následující tabulku:
 
+  
+
     
 
 Klidný den
@@ -261,6 +261,8 @@ Dětská úmrtí (plicní)
 0,20
 
 0,10
+
+  
 
 Souvislost náhlých příhod s chromosférickými erupcemi Slun­ce i s magnetickými bouřemi (a kromě vyjmenovaných např. i moz­kových mrtvic nebo hypertonických krizí) zkoumali i sovětští vědci K. P. Sedov a N. N. Korolev z Irkutska. Zjistili, že se nehody a náhlá úmrtí dostavují současně s magnetickou bouří, schopnou v několika minutách, ba i vteřinách převýšit o dva až pět řádů energetické prahy lidského organismu (N. L. Muzalevskaja z Pulkovské astronomické observatoře A V SSSR), zpožďují se však o 1–2 dny po slunečních erupcích. Kosmické vlivy, tak nepříznivě působící na naši planetu a její obyvatele – jsem přesvědčen, že podobné obtíže postihují i zvířata, ale dosud se, pokud vím, nikdo tímto problémem hlouběji nezabýval – jsou zřejmě zprostředkované indukcí napětí v biosféře. Přímé působení je zatím vzhledem k pohlcování záření a elementárních částic atmosférou popíráno (Boris Valníček).
 
@@ -364,11 +366,15 @@ Zatím mohu jen doufat, že tato kapitola pomohla vysvětlit nejen podivnou změ
 
 
 
+  
+
 ![016.jpg](./resources/016_fmt.jpeg)
 
 Lebka z Lubaantunu z křišťálu, hmotná 5,3 kg a nazývaná též „lebka smrti“
 
 
+
+  
 
 ![017.jpg](./resources/017_fmt.jpeg)
 
@@ -376,11 +382,15 @@ Rentgenogram obou částí geody, nalezené prý na úpatí hory Coso roku 1961
 
 
 
+  
+
 ![018.jpg](./resources/018_fmt.jpeg)
 
 Čínská zeď není bez konkurence, v neobydlených Andách se skrývá „velká peruánská zeď“, objevená teprve nedávno Johnsonovou výpravou
 
 
+
+  
 
 ![019.jpg](./resources/019_fmt.jpeg)
 
@@ -388,11 +398,15 @@ Lebka 1470, uložená v národním muzeu v Keni, po rekonstrukci a doplnění
 
 
 
+  
+
 ![020.jpg](./resources/020_fmt.jpeg)
 
 Soška muže z Hohlensteinu, stará nejméně 32 000 let
 
 
+
+  
 
 ![021.jpg](./resources/021_fmt.jpeg)
 
@@ -400,13 +414,19 @@ Jedna z monumentálních plastik, objevených v Lepenském Viru
 
 
 
+  
+
 ![022.jpg](./resources/022_fmt.jpeg)
 
 Nahoře mírně zmáčknutý hliněný model mozku, dole křemenná hrouda, nalezená N. A. Grigorovičem
 
 
 
+  
+
 ![023.jpg](./resources/023_fmt.jpeg)
+
+  
 
 ![024.jpg](./resources/024_fmt.jpeg)
 
@@ -414,7 +434,11 @@ Krajina na Marsu, jak ji fotografoval Viking I, připomíná ráz některých po
 
 
 
+  
+
 ![025.jpg](./resources/025_fmt.jpeg)
+
+  
 
 ![026.jpg](./resources/026_fmt.jpeg)
 
@@ -422,11 +446,15 @@ Dvě ukázky tzv. pseudometeoritů – první byl prý vyhozen roku 1963 u itals
 
 
 
+  
+
 ![027.jpg](./resources/027_fmt.jpeg)
 
 Tak vypadají odkryté zbytky mamutů u říčky Berelech
 
 
+
+  
 
 ![028.jpg](./resources/028_fmt.jpeg)
 
@@ -434,11 +462,15 @@ Celkový pohled na nakupení mamutích kostí u Berelechu
 
 
 
+  
+
 ![029.jpg](./resources/029_fmt.jpeg)
 
 Bombardovací a torpédonosný Grumman – Avenger, vybavený samočinně se uvolňujícím a nafukujícím záchranným člunem, do něhož je posádka cvičena ve třiceti vteřinách nastoupit. Letoun sám po havárii zůstane na hladině nejméně trojnásobek této doby
 
 
+
+  
 
 ![030.jpg](./resources/030_fmt.jpeg)
 
@@ -446,17 +478,23 @@ Marine Sulphur Queen, dlouhá 129 metrů, zmizela 2. února 1963 i s 39 muži po
 
 
 
+  
+
 ![031.jpg](./resources/031_fmt.jpeg)
 
 Tři ukázky „černých kamenů z Icy“. Na prvních dvou je podle mínění majitele vynětí a transplantace lidského srdce, dokonce s velmi moderní, tzv. intubační narkózou, na třetím rodeo na brontosauru
 
 
 
+  
+
 ![032.jpg](./resources/032_fmt.jpeg)
 
 Pečeť z Karanova[1](./resources/undefined)
 
 
+
+  
 
 ![033.jpg](./resources/033_fmt.jpeg)
 

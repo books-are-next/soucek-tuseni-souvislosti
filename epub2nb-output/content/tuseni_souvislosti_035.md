@@ -15,8 +15,6 @@ J. B. S. HALDANE
 
 Pro lovce nespočetných a málokdy zcela průkazných indicií z dávné minulosti lidstva je vysloveně odstrašujícím případem a varováním tunguzská katastrofa, čtenářům jistě dobře známá. Pro upamatování: dne 30. června 1908 v 07 hodin 17 minut místního času prolétlo nad Sibiří žhavé těleso, popisované některými svědky jako „trubka“ nebo „kláda“, dopadlo o jedenáct vteřin později do oblasti severně od faktorie Vanovary v povodí Kamenné Tunguzky (60° 55’ s. š., 101° 57’ v. d.) způsobilo značné zpustošení širého okolí. Zájemci naleznou podrobnosti v odborném nebo populárně vědeckém tisku.
 
-  
-
 Jde tedy o událost například proti hypotetické zkáze Atlantidy planetkou A velmi nedávnou, necelých sedmdesát let starou, jejímuž vysvětlení se věnovalo množství kvalifikovaných odborníků ve svých pracovnách i na místě samém. Byli vyzbrojeni potřebnými vědomostmi a záhy i moderními přístroji, znali cenu dostatečné míry sebekritiky. Oblast výbuchu byla sice trochu pozdě (první Kulikova výprava se na místo v pravém slova smyslu prosekala teprve roku 1927), ale přece jen dokonale prozkoumána.
 
 Data a poznatky, nasbírané za padesát let, umožnily třem sovětským matematikům, Korobelnikovovi, Čiškonovi a Šuršalovovi (_Acta Cosmonautica_ 3, 615, 1976), odvodit roku 1976 model pádu. Na ploše 2150 km2 bylo balistickými vlnami zničeno 60 tisíc stromů. Obrys zničené tajgy není kruhový, ale má tvar rozepjatého motýla, širokého 75 km a dlouhého 50 km. K výbuchu došlo ve výšce 6,5 km nad tajgou a dráha tělesa svírala s povrchem Země úhel 40° (při dopadu). Celková energie výbuchu a balistických vln byla asi 9,5 Mtun, což je ekvivalent velkorážové termonukleární nálože.
@@ -27,9 +25,9 @@ To je teorie – podle Goetha šedivá, zatímco žití strom se prý zelená. 
 
 Redakce známého sovětského časopisu _Priroda_ se nedávno rozhodla sestavit přehled hypotéz, který zkráceně a po úpravě cituji.
 
-První skupinu tvoří hypotézy, předpokládající působení inteligentních bytostí:
-
   
+
+První skupinu tvoří hypotézy, předpokládající působení inteligentních bytostí:
 
 1\. Atomový výbuch marťanského kosmoletu (1946)
 
@@ -59,9 +57,9 @@ První skupinu tvoří hypotézy, předpokládající působení inteligentních
 
 14\. Havárie manévrujícího kosmoletu (1967)
 
-Hypotézy kolem antihmoty:
-
   
+
+Hypotézy kolem antihmoty:
 
 1\. Pád antimeteoritu (1947)
 
@@ -75,9 +73,9 @@ Hypotézy kolem antihmoty:
 
 6\. Přeměna času, prostoru atd. v energii (1969)
 
-Náboženské hypotézy:
-
   
+
+Náboženské hypotézy:
 
 1\. Sestoupení evenského boha Agdy (Oglua) na Zemi (1908)
 
@@ -85,9 +83,9 @@ Náboženské hypotézy:
 
 3\. Opakování katastrofy Sodomy a Gomory (1950)
 
-Hypotézy geofyzikální:
-
   
+
+Hypotézy geofyzikální:
 
 1\. Výbuch jednoho nebo několika kulových blesků (1908)
 
@@ -109,9 +107,9 @@ Hypotézy geofyzikální:
 
 10\. Výbuch bahenního plynu, zapáleného bleskem (1967)
 
-Meteoritické hypotézy:
-
   
+
+Meteoritické hypotézy:
 
 1\. Exploze skupinového meteoritu (1908)
 
@@ -167,9 +165,9 @@ Meteoritické hypotézy:
 
 27\. Meteor rozerván při průletu atmosférou tepelným napětím (1967)
 
-Kometární hypotézy:
-
   
+
+Kometární hypotézy:
 
 1\. Dopad „planety“ nebo komety za Angaru (1908)
 
@@ -193,15 +191,17 @@ Kometární hypotézy:
 
 11\. Výbuch třaskavého plynu, vzniklého disociací vody v kometě (1966)
 
-Syntetické hypotézy:
-
   
+
+Syntetické hypotézy:
 
 1\. Disociace ledového meteoritu a za vysoké teploty zahájená termojaderná reakce (1961)
 
 2\. Kosmická loď poháněná antihmotou, maskovaná jako kometa (1963)
 
 3\. Kometa z antihmoty, vybuchující v atmosféře (1965)
+
+  
 
 Skromně podotýkám, že jsem bez zvláštní námahy dodal další domněnku, tuším již sedmdesátou pátou: dopad částí jedné z přirozených a dočasných družic Země, jež dosáhla kritické, tzv. Rocheovy meze, kdy slapové síly naší planety rozrušily její soudržnost.
 
@@ -373,6 +373,8 @@ Také zpráva, vyslaná ze Země do vesmíru z obřího třistametrového radio
 
 Velmi podobně, stejně důvtipně (a pro laika stejně kabalisticky nesrozumitelně) šifrované poselství zpožďovaných „ozvěn“ v Lunanově podání zní:
 
+  
+
 > Odtud začněte číst.
 
 > Naším domovem je hvězda Epsilon Bootis.
@@ -393,6 +395,8 @@ Velmi podobně, stejně důvtipně (a pro laika stejně kabalisticky nesrozumite
 
 > Odeslané mapy vám určují pozici Arkturu.
 
+  
+
 Jak je vidět, máme adresu.
 
 Systematický výzkum zpožděným rádiových ozvěn byl navázán teprve roku 1967 Ústavem pro výzkum plazmy při Stanfordské univerzitě (Kalifornie), a to bez ohledu na negativní výsledky občasných pokusů Buddena a Yatese v Essexu v letech 1947–1949. Oba autoři používali nevhodné aparatury, příliš rušené pozemským vysíláním. Stanfordší vědci, přistupující k výzkumu s pracovní hypotézou o zpožďování signálů jako o výsledku dosud neznámé interakce elektromagnetických vln s plazmou, získali první ověřené zpoždění roku 1970. Od roku 1932 do 1969 prý však bylo podle zpráv rozhlasového odborného listu QST (O. G. Villard, C. R. Graf, J. M. Lomasney) zachyceno nejméně čtyřicet LDE (Long-Delayed-Echoes, dlouho zpožděných ozvěn)…
@@ -400,6 +404,8 @@ Systematický výzkum zpožděným rádiových ozvěn byl navázán teprve roku 
 Podle názoru převážné většiny odborníků souvisí pravděpodobně tyto zpožděné rádiové ozvěny s tzv. libračními body v soustavě Země–Měsíc, případně Země–Slunce. Takových libračních bodů (center) existuje v soustavě dvou těles vždy pět; tři na spojnici obou těles, a to jedno mezi tělesy a dvě na vnějších stranách, zbývající dvě centra tvoří s tělesy dva rovnostranné trojúhelníky. Tyto gravitační anomálie se chovají jako pasti na nejrůznější kosmické „smetí“, které se ionizuje slunečním zářením a odráží rádiové vlny.
 
 Mnozí astronomové a spojovací odborníci považují proto tato librační centra a odrazy od nich za uspokojivé a prozatím vyčerpávající vysvětlení zpožďování rádiových ozvěn. Snad je tomu opravdu tak, ale pak zůstává záhadou proměnlivost odrážejících útvarů, zjevná ze změny délky zpoždění, dosud nevyjasněné změny v podmínkách odrazu v krátkém časovém intervalu, kdy se podle našich vědomostí nezměnily ionosférické a jiné podmínky přenosu signálů atd. Snad do hry vstupují jiné přirozené příčiny.
+
+  
 
 ![034.jpg](./resources/034_fmt.jpeg)
 

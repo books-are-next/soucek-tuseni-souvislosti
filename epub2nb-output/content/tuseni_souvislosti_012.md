@@ -22,6 +22,8 @@ KRONIKA VÁCLAVA HÁJKA Z LIBOČAN K ROKU 785 (1541)
 
 
 
+  
+
 ![014.jpg](./resources/014_fmt.jpeg)
 
 Člověk se setkával s mamutem, dobře se s ním seznámil a často (i když ne tak často, jak se obvykle má za to) ho výtvarně zpodoboval
@@ -29,8 +31,6 @@ KRONIKA VÁCLAVA HÁJKA Z LIBOČAN K ROKU 785 (1541)
 
 
 Podivné a v dějinách tvorstva zřejmě neobvykle náhlé vymizení jurské živočišné i rostlinné „dekorace“, především suverénních hromovládců, obrovských praještěrů, je dodnes nevyřešenou hádankou, zasutou ovšem asi 130 milióny let, a tedy příliš vzdálenou v minulosti, než abychom směli doufat v jiné než víceméně důvtipné hypotetické vysvětlení. Množství takových hypotéz bylo již zavrženo, další mají své zastánce a mnohé budou ještě nepochybně zkonstruovány s postupujícím poznáním zákonitostí přírody.
-
-  
 
 Podivnější však je, že se dosud nepodařilo uspokojivě vysvětlit vyhynutí mamutů, žijících – navzdory Cuvierovu tvrzení – nejen jako současníci člověka, jak je dávno známo z četných paleolitických kreseb, rytin a plastik, ale existujících dokonce ještě v době, kdy se v některých částech světa rozvinuly civilizace, schopné např. budovat megalitické stavby.
 
@@ -188,15 +188,19 @@ Hypotéz o přirozených, nekatastrofických příčinách vyhynutí mamutů je
 
 O člověku jako o příčině vyhynutí mamutů jsme se již zmínili a jeho výraznou účast na dvou epochách „velkého umírání“ mamutů v severovýchodní Sibiři odmítli. Jinak je ovšem jisté, že v jiných částech světa existovaly celé kultury lovců mamutů, např. kultura klovis na amerických Velkých rovinách asi před 13–9 tisíci lety, zaměřená na lov bohatých stád mamutů. Teprve po jejich vyhubení se místní paleoindiánské kultury věnovaly přednostně lovu bizonů. Na Ukrajině byla naležena (akademik I. Pidopličko) paleolitická sídliště v pravém smyslu slova vybudovaná z mamutích kostí – jedno takové sídliště si vyžádalo skolení až tisíce i více mamutů. Světoznámé naleziště Sungir u Vladimiru je téměř celé z mamutoviny a rutinu jeho obyvatel dokazuje i neuvěřitelná schopnost narovnat nějakým dnes neznámým a zatím nepředstavitelným způsobem 200 kg hmotný mamutí kel, aby mohl být opracován ve dva metry dlouhé rovné kopí. Velmi řídké a nomádské osídlení severovýchodní Sibiře lidem většinou mikrolitické industrie (používajícím drobných kamenných čepelek a hrotů) však v žádném případě nemohlo stavy mamutů ohrozit.
 
-Další navrženou hypotézou je genetické přežití, což je termín, zmítající se v mystickém příšeří naprosté bezobsažnosti. I kdybychom si pod tímto názvem dovedli představit nějaký evoluční nebo genetický děj (matně tušíme, co mají jeho zastánci na mysli), byl by mamut rozhodně naprosto nevhodným demonstračním objektem. Byl to tvor biologicky neobyčejně plastický, schopný přizpůsobit se různým podnebným pásmům od jižní Francie a teplých oblastí dnešních Spojených států až k ostrovům Nové Sibiře, nemluvě ani o území našeho státu. Byl bezkonkurenčním vládcem své doby, ohroženým jen přírodními katastrofami a v některých oblastech člověkem. Svému biotopu se, jak víme, dovedl přizpůsobit podle mínění většiny vědců lépe než recentní slon. A sama kumulace hynutí mamutů těsně kolem dvou navzájem vzdálených radiokarbonově určených dat odsuzuje hypotézu o genetickém přežití do panoptika kuriozit.
-
   
+
+Další navrženou hypotézou je genetické přežití, což je termín, zmítající se v mystickém příšeří naprosté bezobsažnosti. I kdybychom si pod tímto názvem dovedli představit nějaký evoluční nebo genetický děj (matně tušíme, co mají jeho zastánci na mysli), byl by mamut rozhodně naprosto nevhodným demonstračním objektem. Byl to tvor biologicky neobyčejně plastický, schopný přizpůsobit se různým podnebným pásmům od jižní Francie a teplých oblastí dnešních Spojených států až k ostrovům Nové Sibiře, nemluvě ani o území našeho státu. Byl bezkonkurenčním vládcem své doby, ohroženým jen přírodními katastrofami a v některých oblastech člověkem. Svému biotopu se, jak víme, dovedl přizpůsobit podle mínění většiny vědců lépe než recentní slon. A sama kumulace hynutí mamutů těsně kolem dvou navzájem vzdálených radiokarbonově určených dat odsuzuje hypotézu o genetickém přežití do panoptika kuriozit.
 
 Třetí domněnkou je hladovění, způsobené změnou klimatu. Tento názor je nejčastěji publikován a zastáván – avšak i pak zůstává řada otazníků. A. Ložkin, jeden z jeho obhájců, sám připouští, že právě v obou obdobích „velkého hynutí“ mamutů nastala období oteplení, kdy se vytvářely příznivější podmínky pro rostlinstvo a kdy např. modřínová tajga postoupila až k pobřeží Ledového oceánu – tedy plných 200 km na sever proti dnešnímu stavu. K severu putovaly nejen modříny, ale i břízy, olše a jiné stromy a keře. Zkrátka a dobře: právě v těchto dobách si mohli mamuti spíše gratulovat k zbrusu novým lahůdkám – ale oni jako naschvál vymírali.
 
 Později, na přechodu diluvia a aluvia, tedy před 13–11 tisíci lety, došlo k prudkému oteplení, k dalekosáhlému vyrovnání zimních a letních teplot, a v období před 9,5–4 tisíci lety k hromadnému vzniku bažin, porostlých mechem a ostřicí. Do této doby také v lidských dějinách klademe počátek neolitu, některými autory ne zcela správně formulovaný jako „neolitická revoluce“. Člověk si osvojil řadu nových zručností a schopností, vyráběl účinnější lovecké zbraně, dokonalejší nástroje, a stal se tím pro mamuty smrtelně nebezpečným sokem. Zdálo by se tedy, že pro naše úvahy postačí rovnice
 
+  
+
 zcela neznámá situace + neolitický lovec = vyhynutí mamutů
+
+  
 
 Rovnice by skutečně souhlasila a vysvětlovala by beze zbytku celou naši otázku, kdyby v tomto nepříznivém období nebylo již druhé a poslední „velké hynutí“ mamutů v severovýchodní Sibiři tisíciletou historií.
 
@@ -250,6 +254,8 @@ Rozhodně ji nelze vypustit ze zřetele v naší při o vyhynutí sibiřské s
 
 Za nejpravděpodobnější příčinu katastrofy považuji dopad vesmírného projektilu, nejspíše planetoidy, která – podle výpočtů rakouského badatele Otty Mucka a po malé úpravě – dopadla 6. června 8498 př. n. l. v 01 hodin greenwichského času poblíže Floridy do Atlantského oceánu. Její trosky vyryly na území Severní a Jižní Karolíny asi 3000 kráterů tvořících pouhou výseč ze zasažené oblasti. Váhu planetoidy A, jak ji nazývá, odhaduje Muck na přibližně 1–2 bilióny tun, průměr na 10 km a objem na 600 km3. Energie, uvolněná dopadem, činila kolem 2·1019 Kgm. J. L. Zajdler, z jehož knihy Atlantida (české vydání Orbis, 1972) tyto údaje čerpám, uvádí pro srovnání energii některých největších zemětřesení, jaká v historické době postihla svět:
 
+  
+
 1\. listopadu 1755 v Lisabonu     1,9·1017 Kgm
 
 18\. dubna 1960 v Kalifornii        1,8·1016 Kgm
@@ -257,6 +263,8 @@ Za nejpravděpodobnější příčinu katastrofy považuji dopad vesmírného pr
 28\. prosince 1908 v Kalábrii       5,8·1015 Kgm
 
 4\. března 1914 v Japonsku          5,6·1014 Kgm
+
+  
 
 Jak je vidět, byl dopad planetoidy A doprovázen uvolněním stokrát většího množství energie, než jaká dokázala roku 1755 zničit zemětřesením, proti němuž ve jménu lidství Voltaire protestoval (!), hlavní město Portugalska a zabít 50 000 lidí. Ostatní uvedená zemětřesení byla po stránce energetické bilance tisíckrát až stotisíckrát slabší než výsledek kolize planetoidy A se Zemí, což platí i o pozdějších proslulých zemětřeseních, postihujících roku 1920 Kansu v Číně, roku 1939 Anatolii v Turecku a jedno z nejtěžších zemětřesení vůbec, Assam v Tibetu roku 1950.
 
@@ -266,6 +274,8 @@ Muck vychází při svém výpočtu data katastrofy jednak ze zvláštní polohy
 
 Uveďme namátkou (atlantologové snesli neskonale více argumentů):
 
+  
+
 – Golfský proud vznikl teprve před asi 12 000 lety, jak zjistil vědecký tým sovětské oceánografické lodi Sadko především rozborem pylu i jinými způsoby. Tehdy byla odstraněna překážka v podobě pevniny nebo souostroví někde v oblasti dnešních Azorských ostrovů a teplé vody z Mexického zálivu se mohly vydat k pobřeží Evropy, oteplujíce ji průměrně až o 24 °C (severní Norsko v lednu).
 
 – Egyptské a asyrské „roční kruhy“ (1460 let, tj. 365 × 4, a 1005 let, od roku 712 př. n. l.), jimiž byla počítána období – jinak tyto národy letopočty v našem smyslu slova neznaly a probíhající rok označovaly pořadovým číslem roku vlády toho či onoho panovníka – se v minulosti setkávají roku 10 583 př. n. l., kdy, jak se zdá, oba „kruhy“ vznikly, resp. byly „spuštěny“. U jejich kolébky byla patrně nějaká výrazná a významná událost.
@@ -273,6 +283,8 @@ Uveďme namátkou (atlantologové snesli neskonale více argumentů):
 – Geologové určují ponoření rozlehlých ostrovů v Atlantiku na dobu asi 10 000–11 000 let př. n. l. – souhlasně to tvrdí nejen atlantologové, např. N. F. Zirov, ale i antiatlantologové R. Malaise, L. S. Berg, J. Boucard, H. Petterson a další.
 
 – Halleyova kometa při svém návratu roku 9564 př. n. l. pravděpodobně přešla v takové blízkosti Země, že nelze vyloučit vytržení části hmoty její hlavy zemskou přitažlivostí a slapovými silami. (Pravděpodobně proto, že vliv negravitačních sil brání přesnému propočtu dráhy.) Nestálost hlavy Halleyovy komety se ostatně potvrdila roku 1909, kdy byly v hlavě i chvostu pozorovány prudké exploze a turbulence. Datum, které určuje na základě výpočtů i nové interpretace starých záznamů o kometách Kamieński, nemusí být právě přesné (autor sám počítá s přesností asi ± 0,2 roku) – exaktně známe pohyby Halleyovy komety ode dneška do roku 837 n. l., jakžtakž přijatelně do roku 86 př. n. l. Vypočítat její dráhu a návraty ještě dále do minulosti je neobyčejně svízelné, ne-li docela nemožné vzhledem k účasti mnoha gravitačních i negravitačních sil. To ovšem neznamená, že by tím tato domněnka padla.
+
+  
 
 Výzkumy jednotlivých vrstev Velké jeskyně Šanidaru v Kurdistánu při řece Velký Zab (i na jiných místech) prokázaly kontinuitu lidského osídlení, trvající tu již 100 000 let (!) a přinesly pozoruhodné nálezy pro historii lidstva, např. zjevně záměrnou amputaci pravé ruky neandertálce nad loktem. Končetina byla, podle kosterního nálezu soudě, od dětství ochrnuta a spíše překážela.
 
@@ -371,6 +383,8 @@ Jestliže by však nebyla výrazně dotčena rychlost rotace, nelze to tvrdit o�
 Skutečnost je jiná. Rovníkový průměr Země je asi 12 756 776 metrů, polární průměr 12 713 824 m, zploštění pak činí pouhých 21 476 m, tedy asi 1/500 průměru Země. Znamená to, že by model Země, glóbus o průměru 0,5 m, byl zploštěn o pouhý 1 mm, to znamená bez přesného proměření absolutně nepozorovatelně. Míče takto zploštělé by byly v mezích i nejpřísnějších norem a uspokojily by i nejpuntičkářštější primadony. Připočteme-li skutečnost, že Země nemá tvar rotačního elipsoidu, ale speciálního trojosého elipsoidu (L. B. Listing), podle družicových měření ještě deformovaného do známého „bramboroidu“, že hmota zemské kůry je rozdělena zcela nepravidelně, o čemž svědčí pestrá mozaika tíhových „hladin“, a že, jak se zdá podle gravimetrických měření, jsou nehomogenity i v podkorových vrstvách, pak je jasné, že o maximální stabilitě nelze mluvit, ba dokonce o stabilitě vůbec. Země je v poloze trvale labilní a její poloha vůči rotační ose může být – domnívám se – vychýlena působením překvapivě malé energie. Rovněž nemyslím, že by zploštění Země setrvalo na svém místě od raných dob jejího formování – příčina je zde asi zaměňována s následkem: naše planeta se díky plasticitě svého pláště, moderní vědou stále znovu a znovu potvrzované, při jakékoli změně polohy rotační osy nebo zemského geoidu vůči ose nově formuje a zploští i „roztáhne“ na nových místech, odpovídajících minimální a maximální odstředivosti. Jsem přesvědčen, že se to v minulosti stalo nejednou.
 
 Toto přesvědčení není aktem pouhé víry. Geomorfologie se v poslední době živě zajímá o genezi puklin a zlomků nejen zemské kůry, ale i – díky poznatkům z družicových snímků – povrchu Marsu, Merkuru, Venuše a Měsíce. Poměrně nedávné zvýšení zájmu o tyto geologické útvary lze vysvětlit jejich malou „čitelností“ a překrytím mladšími jevy. V jejich rozložení je nesporná zákonitost, jejímž studiem a využitím v prospekci se dnes zabývá řada geologů, u nás především R. Květ, který formuloval teorii planetárních ekvidistančních poruchových systémů, jejíž základní myšlenkou je představa o zákonitém uspořádání směru puklinových zón a souvisejících zlomů, vázaném především ke změnám polohy zemské osy, případně rychlosti otáčení, i ke kontinentálnímu driftu. Studium puklin poskytuje významné argumenty k domněnce, že v době vyvrcholení horotvorných pochodů dochází k náhlému vyrovnávání dlouho vznikající nerovnováhy přemístěním polohy zemského geoidu vůči ose. Tento pochod se opakoval několikráte (přinejmenším) a zanechal svědectví v podobě geneticky a geometricky shodných puklinových sítí, lišících se vzájemnou polohou.
+
+  
 
 ![015.jpg](./resources/015_fmt.jpeg)
 
