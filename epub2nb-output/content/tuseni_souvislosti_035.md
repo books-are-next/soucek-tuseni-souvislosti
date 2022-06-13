@@ -16,7 +16,6 @@ J. B. S. HALDANE
 </section>
 
 
-
 <section>
 
 Pro lovce nespočetných a málokdy zcela průkazných indicií z dávné minulosti lidstva je vysloveně odstrašujícím případem a varováním tunguzská katastrofa, čtenářům jistě dobře známá. Pro upamatování: dne 30. června 1908 v 07 hodin 17 minut místního času prolétlo nad Sibiří žhavé těleso, popisované některými svědky jako „trubka“ nebo „kláda“, dopadlo o jedenáct vteřin později do oblasti severně od faktorie Vanovary v povodí Kamenné Tunguzky (60° 55’ s. š., 101° 57’ v. d.) způsobilo značné zpustošení širého okolí. Zájemci naleznou podrobnosti v odborném nebo populárně vědeckém tisku.
@@ -472,8 +471,6 @@ Kdyby tomu tak bylo, lze očekávat, že každá technická civilizace bude hled
 Jak je vidět, dostali jsme se od tunguzského tělesa dost daleko. Autor doufá, že ne tak daleko, aby nebyl jasný záměr naznačit potřebu trvalého a opětovného zkoumání všeho, co kolem naší Země létá a co vzbuzuje pochybnosti a otázky jakéhokoli druhu. Možná že tato zvědavost přinese v budoucnosti vytoužené ovoce.
 
 </section>
-
-
 
 <section>
 

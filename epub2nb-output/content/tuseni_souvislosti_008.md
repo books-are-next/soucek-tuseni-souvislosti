@@ -18,7 +18,6 @@ N. N. SEMJONOV, 1951
 </section>
 
 
-
 <section>
 
 ![013.jpg](./resources/013_fmt.jpeg)
@@ -26,8 +25,6 @@ N. N. SEMJONOV, 1951
 Terasa v Baalbeku (foto: Zdenko Feyfar)
 
 </section>
-
-
 
 <section>
 
@@ -88,8 +85,6 @@ Je to podivné a trochu se to podobá nálezu náramkových hodinek na zápěst
 Nepodařilo se mi je, jak vidíte, potlačit ani při setkání s panem císařem Yü a jeho kouzelným proutkem tvaru ladičky.
 
 </section>
-
-
 
 <section>
 

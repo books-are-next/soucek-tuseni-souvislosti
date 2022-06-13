@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-souvislosti-096fc51",
-  "revision": "096fc51",
+  "identifier": "soucek-tuseni-souvislosti-952a0a3",
+  "revision": "952a0a3",
   "readingOrder": [
     "promo.html",
     "tuseni_souvislosti_003.html",
@@ -23,8 +23,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:11:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949516071
+    "date": "Mon Jun 13 2022 21:58:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157521708
   },
   "documents": [
     {
@@ -202,9 +202,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 86,
-      "chars": 601,
-      "ideas": 7,
+      "words": 118,
+      "chars": 784,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "tuseni_souvislosti_038.html",
@@ -222,9 +222,9 @@
   ],
   "totals": {
     "all": {
-      "words": 88685,
-      "chars": 605545,
-      "ideas": 1336
+      "words": 88717,
+      "chars": 605728,
+      "ideas": 1344
     },
     "chapters": {
       "words": 88593,

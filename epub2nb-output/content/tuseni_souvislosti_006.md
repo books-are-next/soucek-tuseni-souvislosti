@@ -25,7 +25,6 @@ BRUNO TRAVEN: STVOŘENÍ SLUNCE
 </section>
 
 
-
 <section>
 
 Posunování mezníků v čase i prostoru, avšak především v čase, se stalo jednou z charakteristických známek poznání a věd naší doby. Někdy je prováděno nenápadně, skrytě, jaksi úkradkem, jindy za hlučného sběhu vědců (obrazně řečeno) a nadšené účasti veřejnosti. Platí to i o vzniku světa, což v tomto případě znamená vesmíru.

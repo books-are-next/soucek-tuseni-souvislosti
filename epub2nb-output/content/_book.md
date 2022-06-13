@@ -27,23 +27,26 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
-      - link: tuseni_souvislosti_005.html
-        title: CITÁTY
-        hiddenTitle: true
-      - link: tuseni_souvislosti_006.html
-        title: POSUNOVÁNÍ HRANIC
-      - link: tuseni_souvislosti_008.html
-        title: 'PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY '
-      - link: tuseni_souvislosti_012.html
-        title: MAMUTI MAJÍ STÁLE CO ŘÍCI
-      - link: tuseni_souvislosti_016.html
-        title: 'HROZBA MAGNETICKÉHO POLE '
-      - link: tuseni_souvislosti_035.html
-        title: 'METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ '
-      - link: tuseni_souvislosti_038.html
-        title: 'OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM '
+      - id: section-1
+        children:
+          - link: tuseni_souvislosti_005.html
+            title: CITÁTY
+            hiddenTitle: true
+          - link: tuseni_souvislosti_006.html
+            title: POSUNOVÁNÍ HRANIC
+          - link: tuseni_souvislosti_008.html
+            title: 'PROUTEK CÍSAŘE YÜ A DRAČÍ ŽÍLY '
+          - link: tuseni_souvislosti_012.html
+            title: MAMUTI MAJÍ STÁLE CO ŘÍCI
+          - link: tuseni_souvislosti_016.html
+            title: 'HROZBA MAGNETICKÉHO POLE '
+          - link: tuseni_souvislosti_035.html
+            title: 'METEORITY PODIVNÉ, ZNEUZNANÉ A PODNĚTNÉ '
+          - link: tuseni_souvislosti_038.html
+            title: 'OD ZMIZELÝCH LODÍ K JINÝM VESMÍRŮM '
+        isSection: true
+        listType: plain
     isSection: true
-    listType: plain
 static:
   - style
   - scripts
