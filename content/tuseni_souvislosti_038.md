@@ -29,7 +29,6 @@ ZMIZENÍ PANA DAVENHEIMA
 </section>
 
 
-
 <section>
 
 Jednou z pobuřujících myšlenek pana Charlese Forta je představa o mimozemských bytostech, jejichž identitu se nesnaží blíže určit, občas lapajících – patrně ze studijních důvodů – ubohé pozemšťany.

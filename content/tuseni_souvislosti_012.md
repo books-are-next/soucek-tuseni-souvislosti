@@ -25,7 +25,6 @@ KRONIKA VÁCLAVA HÁJKA Z LIBOČAN K ROKU 785 (1541)
 </section>
 
 
-
 <section>
 
 ![014.jpg](./resources/014_fmt.jpeg)
@@ -33,8 +32,6 @@ KRONIKA VÁCLAVA HÁJKA Z LIBOČAN K ROKU 785 (1541)
 Člověk se setkával s mamutem, dobře se s ním seznámil a často (i když ne tak často, jak se obvykle má za to) ho výtvarně zpodoboval
 
 </section>
-
-
 
 <section>
 
@@ -470,8 +467,6 @@ Jsem potěšen, že uvedené domněnky podporuje i praktická kosmonautika: pr�
 Než se rozhodneme vzpomínat na budoucnost, jak doporučuje Däniken, měli bychom ověřit alespoň hlavní položky minulosti… Teprve pak pod nimi smíme učinit tlustou čáru a dát se do sčítání. Tím spíše, jestliže právě položky dosud neověřené označují děje a místa, kde a kdy se patrně rozhodujícím způsobem formoval pozoruhodný obraz našeho dnešního světa a kde jeho předobraz zmizel ve vlnách a v dešti kamenů, padajících z nebe.
 
 </section>
-
-
 
 <section>
 

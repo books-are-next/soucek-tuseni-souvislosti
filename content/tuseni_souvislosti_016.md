@@ -22,7 +22,6 @@ ALBERT EINSTEIN
 </section>
 
 
-
 <section>
 
 Ne – van Allenovy pásy nevzplanou, alespoň to podle všech fyzikálních předpokladů neočekáváme. Přesto však projevil Brian W. Aldiss slušnou dávku až děsivé jasnozřivosti a naznačil jednu z možností sebezničení lidstva jemnějším a důvtipnějším způsobem než vulgárním kobercem atomových a termojaderných bomb: porušením magnetického pole, magnetosféry naší planety.
@@ -374,8 +373,6 @@ Zatím mohu jen doufat, že tato kapitola pomohla vysvětlit nejen podivnou změ
 
 </section>
 
-
-
 <section>
 
 ![016.jpg](./resources/016_fmt.jpeg)
@@ -383,8 +380,6 @@ Zatím mohu jen doufat, že tato kapitola pomohla vysvětlit nejen podivnou změ
 Lebka z Lubaantunu z křišťálu, hmotná 5,3 kg a nazývaná též „lebka smrti“
 
 </section>
-
-
 
 <section>
 
@@ -394,8 +389,6 @@ Rentgenogram obou částí geody, nalezené prý na úpatí hory Coso roku 1961
 
 </section>
 
-
-
 <section>
 
 ![018.jpg](./resources/018_fmt.jpeg)
@@ -403,8 +396,6 @@ Rentgenogram obou částí geody, nalezené prý na úpatí hory Coso roku 1961
 Čínská zeď není bez konkurence, v neobydlených Andách se skrývá „velká peruánská zeď“, objevená teprve nedávno Johnsonovou výpravou
 
 </section>
-
-
 
 <section>
 
@@ -414,8 +405,6 @@ Lebka 1470, uložená v národním muzeu v Keni, po rekonstrukci a doplnění
 
 </section>
 
-
-
 <section>
 
 ![020.jpg](./resources/020_fmt.jpeg)
@@ -423,8 +412,6 @@ Lebka 1470, uložená v národním muzeu v Keni, po rekonstrukci a doplnění
 Soška muže z Hohlensteinu, stará nejméně 32 000 let
 
 </section>
-
-
 
 <section>
 
@@ -434,8 +421,6 @@ Jedna z monumentálních plastik, objevených v Lepenském Viru
 
 </section>
 
-
-
 <section>
 
 ![022.jpg](./resources/022_fmt.jpeg)
@@ -443,8 +428,6 @@ Jedna z monumentálních plastik, objevených v Lepenském Viru
 Nahoře mírně zmáčknutý hliněný model mozku, dole křemenná hrouda, nalezená N. A. Grigorovičem
 
 </section>
-
-
 
 <section>
 
@@ -460,8 +443,6 @@ Krajina na Marsu, jak ji fotografoval Viking I, připomíná ráz některých po
 
 </section>
 
-
-
 <section>
 
 ![025.jpg](./resources/025_fmt.jpeg)
@@ -476,8 +457,6 @@ Dvě ukázky tzv. pseudometeoritů – první byl prý vyhozen roku 1963 u itals
 
 </section>
 
-
-
 <section>
 
 ![027.jpg](./resources/027_fmt.jpeg)
@@ -485,8 +464,6 @@ Dvě ukázky tzv. pseudometeoritů – první byl prý vyhozen roku 1963 u itals
 Tak vypadají odkryté zbytky mamutů u říčky Berelech
 
 </section>
-
-
 
 <section>
 
@@ -496,8 +473,6 @@ Celkový pohled na nakupení mamutích kostí u Berelechu
 
 </section>
 
-
-
 <section>
 
 ![029.jpg](./resources/029_fmt.jpeg)
@@ -505,8 +480,6 @@ Celkový pohled na nakupení mamutích kostí u Berelechu
 Bombardovací a torpédonosný Grumman – Avenger, vybavený samočinně se uvolňujícím a nafukujícím záchranným člunem, do něhož je posádka cvičena ve třiceti vteřinách nastoupit. Letoun sám po havárii zůstane na hladině nejméně trojnásobek této doby
 
 </section>
-
-
 
 <section>
 
@@ -516,8 +489,6 @@ Marine Sulphur Queen, dlouhá 129 metrů, zmizela 2. února 1963 i s 39 muži po
 
 </section>
 
-
-
 <section>
 
 ![031.jpg](./resources/031_fmt.jpeg)
@@ -525,8 +496,6 @@ Marine Sulphur Queen, dlouhá 129 metrů, zmizela 2. února 1963 i s 39 muži po
 Tři ukázky „černých kamenů z Icy“. Na prvních dvou je podle mínění majitele vynětí a transplantace lidského srdce, dokonce s velmi moderní, tzv. intubační narkózou, na třetím rodeo na brontosauru
 
 </section>
-
-
 
 <section>
 
@@ -536,8 +505,6 @@ Pečeť z Karanova[1](./resources/undefined)
 
 </section>
 
-
-
 <section>
 
 ![033.jpg](./resources/033_fmt.jpeg)
@@ -545,8 +512,6 @@ Pečeť z Karanova[1](./resources/undefined)
 Pečeť ze Sitagroje
 
 </section>
-
-
 
 <section>
 
