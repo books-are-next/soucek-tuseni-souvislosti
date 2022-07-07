@@ -23,7 +23,7 @@ readingOrder:
   - tuseni_souvislosti_016.html
   - tuseni_souvislosti_035.html
   - tuseni_souvislosti_038.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

@@ -49,7 +49,7 @@
             "filename": "tuseni_souvislosti_004.md",
             "xhtml": "tuseni_souvislosti_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": [],
@@ -451,7 +451,7 @@
             "filename": "tuseni_souvislosti_040.md",
             "xhtml": "tuseni_souvislosti_040.xhtml",
             "id": 39,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": [],
@@ -976,6 +976,6 @@
       "user": "books-are-next",
       "repo": "soucek-tuseni-souvislosti"
     },
-    "generatedAt": 1655979732287
+    "generatedAt": 1657182494610
   }
 }

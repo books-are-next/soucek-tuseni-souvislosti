@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-souvislosti-3eb6bfb",
-  "revision": "3eb6bfb",
+  "identifier": "soucek-tuseni-souvislosti-3dfe899",
+  "revision": "3dfe899",
   "readingOrder": [
     "promo.html",
     "tuseni_souvislosti_003.html",
@@ -20,11 +20,11 @@
     "tuseni_souvislosti_016.html",
     "tuseni_souvislosti_035.html",
     "tuseni_souvislosti_038.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:27:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980071655
+    "date": "Thu Jul 07 2022 08:39:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183149660
   },
   "documents": [
     {
@@ -133,7 +133,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "MAMUTI MAJÍ STÁLE CO ŘÍCI",
+          "name": "MAMUTI MAJÍ STÁLE CO ŘÍCI",
           "id": null,
           "children": []
         }
@@ -188,7 +188,7 @@
       "role": "chapter",
       "order": 8,
       "prev": "tuseni_souvislosti_035.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -201,11 +201,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 891,
+      "chars": 890,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "tuseni_souvislosti_038.html",
       "next": null,
@@ -223,7 +223,7 @@
   "totals": {
     "all": {
       "words": 88731,
-      "chars": 605835,
+      "chars": 605834,
       "ideas": 1344
     },
     "chapters": {
