@@ -501,7 +501,7 @@ Tři ukázky „černých kamenů z Icy“. Na prvních dvou je podle mínění 
 
 ![032.jpg](./resources/032_fmt.jpeg)
 
-Pečeť z Karanova[1](./resources/undefined)
+Pečeť z Karanova[^1]
 
 </section>
 
@@ -523,6 +523,6 @@ Pečeť ze Sitagroje
 
 > Ani u filozofů (s výjimkou nejzarputilejších kreacionistů, odmítajících i novotomismus) nenalezne podporu a pochopení. Já sám proti jeho stanovisku, které polemicky rozviklal již polský spisovatel a futurolog Lem, protestuji z hlediska ontologie vesmíru a člověka, povolaného stát se spolu s dalšími civilizacemi dialektickým vývojem hmoty a zjemňováním jejího pohybu kosmickým činitelem, jsou-li kosmické zákonitosti všeho druhu objektivní a není-li nás obklopující vesmír cirkusem. O tom ale až jindy a jinde. Otázku „Proč zde ještě nejsou?“ můžeme zkrátka položit s klidným svědomím. Ba ještě více. Podle mého mínění je stejně oprávněná otázka ještě trochu odvážnější: A nejsou tu opravdu?
 
-[1](./resources/undefined) Srov. využití obrázku v _Tušení stínu_. _Pozn. red._
+[^1]: Srov. využití obrázku v _Tušení stínu_. _Pozn. red._
 
 </section>
