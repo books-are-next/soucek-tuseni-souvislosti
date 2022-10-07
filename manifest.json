@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-souvislosti-315c913",
-  "revision": "315c913",
+  "identifier": "soucek-tuseni-souvislosti-4067546",
+  "revision": "4067546",
   "readingOrder": [
     "promo.html",
     "tuseni_souvislosti_003.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:05:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924712083
+    "date": "Fri Oct 07 2022 14:07:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151643867
   },
   "documents": [
     {
